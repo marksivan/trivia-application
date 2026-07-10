@@ -1,6 +1,7 @@
 # Adaptive Trivia Application
 
 Created and Designed by: **Irenee Niyibaho & Mark Sivan Tamakloe**
+
 Try it out here: https://marksivan.github.io/trivia-application/ 
 
 This is both a Terminal-based and GUI-based Java trivia game application with a bank of questions in different fields that adopts our real-time adaptive questioning and recommendation system. This local app models the user experience based on real world experience. Questions dynamically adjust in difficulty based on a player's performance to maintain an engaging and challenging experience.
