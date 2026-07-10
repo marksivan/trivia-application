@@ -1,0 +1,805 @@
+[
+  {
+    "text": "What is the capital of France",
+    "options": [
+      "Berlin",
+      "Paris",
+      "Madrid",
+      "Rome"
+    ],
+    "correctIndex": 1,
+    "difficulty": 1
+  },
+  {
+    "text": "Which continent is known as the 'Dark Continent'",
+    "options": [
+      "Africa",
+      "Asia",
+      "South America",
+      "Europe"
+    ],
+    "correctIndex": 0,
+    "difficulty": 1
+  },
+  {
+    "text": "What is the longest river in the world",
+    "options": [
+      "Amazon",
+      "Mississippi",
+      "Nile",
+      "Yangtze"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2
+  },
+  {
+    "text": "Which mountain is the tallest in the world",
+    "options": [
+      "Mount Everest",
+      "K2",
+      "Kangchenjunga",
+      "Denali"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3
+  },
+  {
+    "text": "What is the largest country in the world by area",
+    "options": [
+      "China",
+      "USA",
+      "Canada",
+      "Russia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3
+  },
+  {
+    "text": "Which ocean is the largest",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 4
+  },
+  {
+    "text": "Which country is known as the Land of the Rising Sun",
+    "options": [
+      "China",
+      "South Korea",
+      "Japan",
+      "Thailand"
+    ],
+    "correctIndex": 2,
+    "difficulty": 5
+  },
+  {
+    "text": "Which is the smallest country in the world",
+    "options": [
+      "Vatican City",
+      "Monaco",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "correctIndex": 0,
+    "difficulty": 5
+  },
+  {
+    "text": "What is the capital of Brazil",
+    "options": [
+      "Sao Paulo",
+      "Porto Alegre",
+      "Rio de Janeiro",
+      "Brasilia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 6
+  },
+  {
+    "text": "Which of these countries is landlocked",
+    "options": [
+      "Nepal",
+      "Thailand",
+      "India",
+      "Malaysia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 6
+  },
+  {
+    "text": "What is the currency of Japan",
+    "options": [
+      "Yuan",
+      "Yen",
+      "Won",
+      "Rupee"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of the following is the longest mountain range in the world",
+    "options": [
+      "Rockies",
+      "Andes",
+      "Alps",
+      "Mid-Atlantic Ridge"
+    ],
+    "correctIndex": 3,
+    "difficulty": 7
+  },
+  {
+    "text": "What is the largest island in the world",
+    "options": [
+      "Greenland",
+      "Australia",
+      "New Guinea",
+      "Borneo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 8
+  },
+  {
+    "text": "Which desert is the largest in the world",
+    "options": [
+      "Kalahari",
+      "Sahara",
+      "Atacama",
+      "Gobi"
+    ],
+    "correctIndex": 1,
+    "difficulty": 8
+  },
+  {
+    "text": "Which country has the highest population",
+    "options": [
+      "China",
+      "India",
+      "USA",
+      "Russia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "What is the name of the longest river in Europe",
+    "options": [
+      "Volga",
+      "Danube",
+      "Thames",
+      "Rhine"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "Which country is the world's largest producer of coffee",
+    "options": [
+      "Brazil",
+      "Colombia",
+      "India",
+      "Guatemala"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which island nation is located to the southeast of India",
+    "options": [
+      "Sri Lanka",
+      "Maldives",
+      "Indonesia",
+      "Philippines"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the highest volcano in the world",
+    "options": [
+      "Mount Fuji",
+      "Mount Etna",
+      "Mount St. Helens",
+      "Ojos del Salado"
+    ],
+    "correctIndex": 3,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the official language of Brazil",
+    "options": [
+      "Spanish",
+      "French",
+      "Portuguese",
+      "Italian"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "Which country is famous for its Pyramids",
+    "options": [
+      "Egypt",
+      "Turkey",
+      "Greece",
+      "Italy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "What is the most populated city in the world",
+    "options": [
+      "Tokyo",
+      "Delhi",
+      "New York",
+      "Shanghai"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which country is home to the famous landmark Machu Picchu",
+    "options": [
+      "Peru",
+      "Chile",
+      "Bolivia",
+      "Argentina"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "Which continent is the Sahara Desert located on",
+    "options": [
+      "Asia",
+      "Africa",
+      "North America",
+      "South America"
+    ],
+    "correctIndex": 1,
+    "difficulty": 12
+  },
+  {
+    "text": "What is the capital of Australia",
+    "options": [
+      "Sydney",
+      "Canberra",
+      "Melbourne",
+      "Perth"
+    ],
+    "correctIndex": 1,
+    "difficulty": 13
+  },
+  {
+    "text": "Which country has the largest number of active volcanoes",
+    "options": [
+      "Indonesia",
+      "Japan",
+      "Chile",
+      "Philippines"
+    ],
+    "correctIndex": 0,
+    "difficulty": 13
+  },
+  {
+    "text": "What is the smallest ocean in the world",
+    "options": [
+      "Arctic Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean"
+    ],
+    "correctIndex": 0,
+    "difficulty": 14
+  },
+  {
+    "text": "Which country has the largest number of islands",
+    "options": [
+      "Sweden",
+      "Canada",
+      "Philippines",
+      "Indonesia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 14
+  },
+  {
+    "text": "Which city is the oldest continuously inhabited in the world",
+    "options": [
+      "Jericho",
+      "Antioch",
+      "Cairo",
+      "Jerusalem"
+    ],
+    "correctIndex": 0,
+    "difficulty": 15
+  },
+  {
+    "text": "What is the name of the sea that lies between Saudi Arabia and Egypt",
+    "options": [
+      "Red Sea",
+      "Dead Sea",
+      "Arabian Sea",
+      "Caspian Sea"
+    ],
+    "correctIndex": 0,
+    "difficulty": 15
+  },
+  {
+    "text": "What is the largest island in the Caribbean",
+    "options": [
+      "Cuba",
+      "Hispaniola",
+      "Jamaica",
+      "Puerto Rico"
+    ],
+    "correctIndex": 0,
+    "difficulty": 16
+  },
+  {
+    "text": "Which country is home to the Great Barrier Reef",
+    "options": [
+      "Australia",
+      "New Zealand",
+      "Philippines",
+      "Fiji"
+    ],
+    "correctIndex": 0,
+    "difficulty": 16
+  },
+  {
+    "text": "What is the largest lake in Africa",
+    "options": [
+      "Lake Victoria",
+      "Lake Tanganyika",
+      "Lake Malawi",
+      "Lake Albert"
+    ],
+    "correctIndex": 0,
+    "difficulty": 17
+  },
+  {
+    "text": "What is the capital city of Kenya",
+    "options": [
+      "Nairobi",
+      "Addis Ababa",
+      "Cairo",
+      "Abuja"
+    ],
+    "correctIndex": 0,
+    "difficulty": 17
+  },
+  {
+    "text": "Which country has the highest number of UNESCO World Heritage Sites",
+    "options": [
+      "Italy",
+      "China",
+      "France",
+      "India"
+    ],
+    "correctIndex": 2,
+    "difficulty": 17
+  },
+  {
+    "text": "What is the longest coastline in the world",
+    "options": [
+      "Canada",
+      "USA",
+      "Australia",
+      "China"
+    ],
+    "correctIndex": 0,
+    "difficulty": 18
+  },
+  {
+    "text": "Which mountain range separates Europe from Asia",
+    "options": [
+      "Andes",
+      "Alps",
+      "Urals",
+      "Himalayas"
+    ],
+    "correctIndex": 2,
+    "difficulty": 18
+  },
+  {
+    "text": "Which of these countries has the most national parks",
+    "options": [
+      "USA",
+      "Canada",
+      "Australia",
+      "South Africa"
+    ],
+    "correctIndex": 0,
+    "difficulty": 19
+  },
+  {
+    "text": "What is the only country with a flag that does not have four sides",
+    "options": [
+      "Nepal",
+      "Bhutan",
+      "Switzerland",
+      "Denmark"
+    ],
+    "correctIndex": 0,
+    "difficulty": 20
+  },
+  {
+    "text": "Which city is known as the 'City of Canals'",
+    "options": [
+      "Venice",
+      "Amsterdam",
+      "Copenhagen",
+      "Berlin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 20
+  },
+  {
+    "text": "What is the deepest lake in the world",
+    "options": [
+      "Lake Baikal",
+      "Lake Tanganyika",
+      "Lake Vostok",
+      "Lake Superior"
+    ],
+    "correctIndex": 0,
+    "difficulty": 21
+  },
+  {
+    "text": "Which country has the most time zones",
+    "options": [
+      "USA",
+      "China",
+      "France",
+      "Russia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 21
+  },
+  {
+    "text": "Which country is known as the 'Land of Fire and Ice'",
+    "options": [
+      "Iceland",
+      "New Zealand",
+      "Greenland",
+      "Canada"
+    ],
+    "correctIndex": 0,
+    "difficulty": 22
+  },
+  {
+    "text": "What is the largest desert in the world",
+    "options": [
+      "Sahara",
+      "Kalahari",
+      "Arabian",
+      "Gobi"
+    ],
+    "correctIndex": 0,
+    "difficulty": 22
+  },
+  {
+    "text": "What is the tallest mountain in North America",
+    "options": [
+      "Mount Denali",
+      "Mount McKinley",
+      "Mount Logan",
+      "Mount Rainier"
+    ],
+    "correctIndex": 0,
+    "difficulty": 23
+  },
+  {
+    "text": "Which is the world\u2019s largest country by population",
+    "options": [
+      "China",
+      "India",
+      "USA",
+      "Russia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 23
+  },
+  {
+    "text": "What is the largest country in Africa by land area",
+    "options": [
+      "Algeria",
+      "Sudan",
+      "Democratic Republic of the Congo",
+      "Libya"
+    ],
+    "correctIndex": 0,
+    "difficulty": 24
+  },
+  {
+    "text": "What river flows through Egypt",
+    "options": [
+      "Nile",
+      "Amazon",
+      "Ganges",
+      "Yangtze"
+    ],
+    "correctIndex": 0,
+    "difficulty": 24
+  },
+  {
+    "text": "What is the capital of Canada",
+    "options": [
+      "Ottawa",
+      "Toronto",
+      "Vancouver",
+      "Montreal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 25
+  },
+  {
+    "text": "Which country has the longest border with the USA",
+    "options": [
+      "Mexico",
+      "Canada",
+      "Guatemala",
+      "Panama"
+    ],
+    "correctIndex": 1,
+    "difficulty": 25
+  },
+  {
+    "text": "What is the name of the longest river in the USA",
+    "options": [
+      "Missouri River",
+      "Colorado River",
+      "Mississippi River",
+      "Ohio River"
+    ],
+    "correctIndex": 0,
+    "difficulty": 26
+  },
+  {
+    "text": "Which is the only continent with land in all four hemispheres",
+    "options": [
+      "Africa",
+      "Asia",
+      "North America",
+      "Australia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 26
+  },
+  {
+    "text": "What is the largest country in South America",
+    "options": [
+      "Brazil",
+      "Argentina",
+      "Peru",
+      "Chile"
+    ],
+    "correctIndex": 0,
+    "difficulty": 27
+  },
+  {
+    "text": "What is the capital of Mongolia",
+    "options": [
+      "Ulaanbaatar",
+      "Helsinki",
+      "Astana",
+      "Phnom Penh"
+    ],
+    "correctIndex": 0,
+    "difficulty": 27
+  },
+  {
+    "text": "Which of these countries has the largest population density",
+    "options": [
+      "Monaco",
+      "Singapore",
+      "Bangladesh",
+      "India"
+    ],
+    "correctIndex": 0,
+    "difficulty": 28
+  },
+  {
+    "text": "Which country is home to the Amazon rainforest",
+    "options": [
+      "Brazil",
+      "Peru",
+      "Colombia",
+      "Venezuela"
+    ],
+    "correctIndex": 0,
+    "difficulty": 28
+  },
+  {
+    "text": "What is the capital city of Iceland",
+    "options": [
+      "Reykjavik",
+      "Helsinki",
+      "Oslo",
+      "Copenhagen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 29
+  },
+  {
+    "text": "What is the world's largest archipelago",
+    "options": [
+      "Indonesia",
+      "Philippines",
+      "Canada",
+      "Maldives"
+    ],
+    "correctIndex": 0,
+    "difficulty": 29
+  },
+  {
+    "text": "What is the largest country in Africa",
+    "options": [
+      "Nigeria",
+      "South Africa",
+      "Algeria",
+      "Egypt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "Which country has the highest average elevation",
+    "options": [
+      "Nepal",
+      "Switzerland",
+      "Peru",
+      "Tibet"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which country is known as the 'Land of a Thousand Lakes'",
+    "options": [
+      "Finland",
+      "Sweden",
+      "Canada",
+      "USA"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the longest river in South America",
+    "options": [
+      "Amazon River",
+      "Orinoco River",
+      "Paran\u00e1 River",
+      "Magdalena River"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which country has the most pyramids",
+    "options": [
+      "Sudan",
+      "Mexico",
+      "Egypt",
+      "Peru"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the capital of Spain",
+    "options": [
+      "Madrid",
+      "Barcelona",
+      "Seville",
+      "Valencia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which island is the largest in the Mediterranean Sea",
+    "options": [
+      "Crete",
+      "Italy",
+      "Sicily",
+      "Corsica"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the official language of Switzerland",
+    "options": [
+      "French",
+      "German",
+      "Italian",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": 10
+  },
+  {
+    "text": "Which country is the world's largest producer of diamonds",
+    "options": [
+      "South Africa",
+      "Australia",
+      "India",
+      "Canada"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which river is known as the 'Yellow River'",
+    "options": [
+      "Yangtze River",
+      "Mekong River",
+      "Lena River",
+      "Huang He"
+    ],
+    "correctIndex": 3,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the capital of South Korea",
+    "options": [
+      "Seoul",
+      "Beijing",
+      "Tokyo",
+      "Hanoi"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which mountain range runs through Morocco",
+    "options": [
+      "Atlas Mountains",
+      "Appalachian Mountains",
+      "Andes Mountains",
+      "Rocky Mountains"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the national currency of Egypt",
+    "options": [
+      "Pound",
+      "Dirham",
+      "Euro",
+      "Yen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which ocean lies to the west of the USA",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "Which country is the world\u2019s largest producer of olive oil",
+    "options": [
+      "Spain",
+      "Italy",
+      "Greece",
+      "Turkey"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  }
+]

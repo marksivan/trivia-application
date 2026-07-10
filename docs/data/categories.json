@@ -1,0 +1,58 @@
+[
+  {
+    "id": "math",
+    "name": "Math",
+    "icon": "\ud83d\udd22",
+    "color": "#6366f1",
+    "count": 39
+  },
+  {
+    "id": "science",
+    "name": "Science",
+    "icon": "\ud83d\udd2c",
+    "color": "#22c55e",
+    "count": 78
+  },
+  {
+    "id": "verbalReasoning",
+    "name": "Verbal Reasoning",
+    "icon": "\ud83d\udcd6",
+    "color": "#f59e0b",
+    "count": 26
+  },
+  {
+    "id": "technology",
+    "name": "Technology",
+    "icon": "\ud83d\udcbb",
+    "color": "#3b82f6",
+    "count": 75
+  },
+  {
+    "id": "sports",
+    "name": "Sports",
+    "icon": "\u26bd",
+    "color": "#ef4444",
+    "count": 58
+  },
+  {
+    "id": "history",
+    "name": "World History",
+    "icon": "\ud83c\udfdb\ufe0f",
+    "color": "#a855f7",
+    "count": 63
+  },
+  {
+    "id": "geography",
+    "name": "Geography",
+    "icon": "\ud83c\udf0d",
+    "color": "#14b8a6",
+    "count": 73
+  },
+  {
+    "id": "healthAndMedicine",
+    "name": "Health & Medicine",
+    "icon": "\ud83e\ude7a",
+    "color": "#ec4899",
+    "count": 61
+  }
+]

@@ -1,0 +1,673 @@
+[
+  {
+    "text": "What is the normal body temperature for humans?",
+    "options": [
+      "98.6\u00b0F",
+      "100\u00b0F",
+      "97.6\u00b0F",
+      "101\u00b0F"
+    ],
+    "correctIndex": 0,
+    "difficulty": 8
+  },
+  {
+    "text": "Which vitamin is produced by the human body when exposed to sunlight?",
+    "options": [
+      "Vitamin D",
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin E"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "What is the most common blood type in humans?",
+    "options": [
+      "O+",
+      "A+",
+      "B+",
+      "AB+"
+    ],
+    "correctIndex": 0,
+    "difficulty": 7
+  },
+  {
+    "text": "Which organ is primarily responsible for filtering blood?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Lungs",
+      "Kidneys"
+    ],
+    "correctIndex": 3,
+    "difficulty": 8
+  },
+  {
+    "text": "Which of these diseases is caused by a viral infection?",
+    "options": [
+      "Malaria",
+      "Diabetes",
+      "Flu",
+      "Hypertension"
+    ],
+    "correctIndex": 2,
+    "difficulty": 8
+  },
+  {
+    "text": "What is the process of converting food into energy called?",
+    "options": [
+      "Metabolism",
+      "Digestion",
+      "Excretion",
+      "Absorption"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "Which part of the brain controls basic functions like breathing and heartbeat?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla Oblongata",
+      "Thalamus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 9
+  },
+  {
+    "text": "What is the name of the procedure used to remove a person's appendix?",
+    "options": [
+      "Appendectomy",
+      "Cholecystectomy",
+      "Colonoscopy",
+      "Laparotomy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "What is the most common cause of death worldwide?",
+    "options": [
+      "Heart disease",
+      "Cancer",
+      "Diabetes",
+      "Infectious diseases"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which type of diabetes is often diagnosed in childhood?",
+    "options": [
+      "Type 1 Diabetes",
+      "Type 2 Diabetes",
+      "Gestational Diabetes",
+      "Pre-diabetes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "What is the largest organ in the human body?",
+    "options": [
+      "Liver",
+      "Brain",
+      "Heart",
+      "Skin"
+    ],
+    "correctIndex": 3,
+    "difficulty": 10
+  },
+  {
+    "text": "Which vitamin is essential for the proper functioning of the immune system?",
+    "options": [
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin D"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the main function of red blood cells?",
+    "options": [
+      "Carry oxygen",
+      "Help with digestion",
+      "Regulate body temperature",
+      "Transport nutrients"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What part of the body is affected by osteoarthritis?",
+    "options": [
+      "Bones",
+      "Muscles",
+      "Cartilage",
+      "Organs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "Which hormone regulates blood sugar levels?",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "Cortisol",
+      "Thyroxine"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which disease is caused by a lack of insulin production?",
+    "options": [
+      "Diabetes",
+      "Hypertension",
+      "Asthma",
+      "Anemia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which type of blood vessel carries oxygen-rich blood away from the heart?",
+    "options": [
+      "Artery",
+      "Vein",
+      "Capillary",
+      "Lymphatic vessel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the primary function of the human liver?",
+    "options": [
+      "Detoxification",
+      "Digestion",
+      "Excretion",
+      "Respiration"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the name of the condition characterized by high blood pressure?",
+    "options": [
+      "Hypertension",
+      "Hypotension",
+      "Anemia",
+      "Arrhythmia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the most common form of cancer in women?",
+    "options": [
+      "Breast cancer",
+      "Lung cancer",
+      "Ovarian cancer",
+      "Cervical cancer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What disease is caused by a deficiency in vitamin C?",
+    "options": [
+      "Scurvy",
+      "Rickets",
+      "Anemia",
+      "Goiter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the recommended daily intake of water for a typical adult?",
+    "options": [
+      "8 cups",
+      "10 cups",
+      "12 cups",
+      "5 cups"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the medical term for a heart attack?",
+    "options": [
+      "Myocardial infarction",
+      "Angina",
+      "Pulmonary embolism",
+      "Arrhythmia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of these is an autoimmune disorder?",
+    "options": [
+      "Rheumatoid arthritis",
+      "Asthma",
+      "Hypertension",
+      "Diabetes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which condition is often referred to as the 'silent killer'?",
+    "options": [
+      "Hypertension",
+      "Asthma",
+      "Diabetes",
+      "Epilepsy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the primary function of the human lungs?",
+    "options": [
+      "Oxygenate blood",
+      "Filter waste",
+      "Regulate body temperature",
+      "Produce hormones"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the process of the body maintaining a stable internal environment?",
+    "options": [
+      "Homeostasis",
+      "Digestion",
+      "Excretion",
+      "Respiration"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which is a common cause of food poisoning?",
+    "options": [
+      "Salmonella",
+      "Cholera",
+      "Hypertension",
+      "Diabetes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which vaccine is used to prevent measles?",
+    "options": [
+      "MMR vaccine",
+      "Tetanus vaccine",
+      "Polio vaccine",
+      "Chickenpox vaccine"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which organ is primarily responsible for detoxifying harmful substances?",
+    "options": [
+      "Kidneys",
+      "Liver",
+      "Stomach",
+      "Heart"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the name of the condition where the body's immune system attacks its own tissues?",
+    "options": [
+      "Autoimmune disease",
+      "Inflammation",
+      "Infection",
+      "Degeneration"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which is the most common type of stroke?",
+    "options": [
+      "Ischemic stroke",
+      "Hemorrhagic stroke",
+      "Transient ischemic attack",
+      "Brain aneurysm"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which condition is characterized by excessive production of cortisol?",
+    "options": [
+      "Cushing's syndrome",
+      "Addison's disease",
+      "Diabetes",
+      "Hyperthyroidism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "What is the leading cause of preventable death worldwide?",
+    "options": [
+      "Tobacco use",
+      "Alcohol abuse",
+      "Obesity",
+      "Infectious diseases"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "What is the most common type of cancer in men?",
+    "options": [
+      "Prostate cancer",
+      "Lung cancer",
+      "Colon cancer",
+      "Pancreatic cancer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which part of the nervous system controls involuntary actions?",
+    "options": [
+      "Autonomic nervous system",
+      "Somatic nervous system",
+      "Central nervous system",
+      "Peripheral nervous system"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which is the main component of human blood?",
+    "options": [
+      "Plasma",
+      "Red blood cells",
+      "White blood cells",
+      "Platelets"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the medical term for low red blood cell count?",
+    "options": [
+      "Anemia",
+      "Leukopenia",
+      "Thrombocytopenia",
+      "Polycythemia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which of these diseases is caused by a bacterial infection?",
+    "options": [
+      "Tuberculosis",
+      "Chickenpox",
+      "Influenza",
+      "Polio"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "What is the most common sexually transmitted infection?",
+    "options": [
+      "Chlamydia",
+      "Human papillomavirus (HPV)",
+      "HIV",
+      "Herpes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "What is the medical term for high cholesterol?",
+    "options": [
+      "Hyperlipidemia",
+      "Hypoglycemia",
+      "Hypertension",
+      "Hypercalcemia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "What is the first line of treatment for an asthma attack?",
+    "options": [
+      "Inhalers",
+      "Antibiotics",
+      "Anti-inflammatory drugs",
+      "Chemo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which vitamin is essential for blood clotting?",
+    "options": [
+      "Vitamin K",
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which part of the body is most commonly affected by Parkinson's disease?",
+    "options": [
+      "Brain",
+      "Heart",
+      "Lungs",
+      "Kidneys"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "What is the condition where bones become fragile and brittle?",
+    "options": [
+      "Osteoporosis",
+      "Arthritis",
+      "Scoliosis",
+      "Myopathy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "What is the name of the disorder that causes a person to stop breathing during sleep?",
+    "options": [
+      "Sleep apnea",
+      "Insomnia",
+      "Narcolepsy",
+      "Restless leg syndrome"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "What type of fat is most harmful to human health?",
+    "options": [
+      "Trans fat",
+      "Unsaturated fat",
+      "Monounsaturated fat",
+      "Polyunsaturated fat"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "What is the name of the disorder characterized by an overactive thyroid?",
+    "options": [
+      "Hyperthyroidism",
+      "Hypothyroidism",
+      "Hashimoto's disease",
+      "Cretinism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "Which drug is commonly used to manage high blood pressure?",
+    "options": [
+      "Aspirin",
+      "Insulin",
+      "Losartan",
+      "Antibiotics"
+    ],
+    "correctIndex": 2,
+    "difficulty": 12
+  },
+  {
+    "text": "Which of these is a risk factor for developing type 2 diabetes?",
+    "options": [
+      "Obesity",
+      "Hypertension",
+      "Stress",
+      "Low calcium intake"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "Which chronic disease is the leading cause of kidney failure?",
+    "options": [
+      "Diabetes",
+      "Heart disease",
+      "Cancer",
+      "Hypertension"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "What is the primary treatment for a bacterial infection?",
+    "options": [
+      "Antibiotics",
+      "Antivirals",
+      "Antifungals",
+      "Analgesics"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "What is the medical term for the inflammation of the appendix?",
+    "options": [
+      "Appendicitis",
+      "Peritonitis",
+      "Diverticulitis",
+      "Cholecystitis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "Which disease is characterized by the progressive loss of memory?",
+    "options": [
+      "Alzheimer's disease",
+      "Parkinson's disease",
+      "Epilepsy",
+      "Multiple sclerosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "Which medical condition is commonly associated with difficulty breathing?",
+    "options": [
+      "Asthma",
+      "Cancer",
+      "Heart disease",
+      "Lung disease"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "What is the name of the medication commonly used to treat depression?",
+    "options": [
+      "Antidepressants",
+      "Antibiotics",
+      "Antihistamines",
+      "Anti-inflammatories"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "Which of the following is an effect of dehydration?",
+    "options": [
+      "Headache",
+      "High blood pressure",
+      "Fatigue",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": 12
+  },
+  {
+    "text": "What condition is most commonly treated with insulin?",
+    "options": [
+      "Diabetes",
+      "Hypertension",
+      "Heart disease",
+      "Asthma"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "What is the most common cause of cirrhosis of the liver?",
+    "options": [
+      "Alcohol abuse",
+      "Obesity",
+      "Cholesterol",
+      "Diabetes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "Which hormone regulates the body's circadian rhythm?",
+    "options": [
+      "Melatonin",
+      "Insulin",
+      "Cortisol",
+      "Adrenaline"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "What type of doctor specializes in the treatment of cancer?",
+    "options": [
+      "Oncologist",
+      "Cardiologist",
+      "Orthopedist",
+      "Neurologist"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  }
+]

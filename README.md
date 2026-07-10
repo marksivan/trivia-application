@@ -25,6 +25,34 @@ The game uses **min-heaps and max-heaps** to manage and prioritize questions:
 - 📋 Medium questions are selected randomly from an `ArrayList`.
 
 
+## Play Online (GitHub Pages)
+
+A modern browser version of the trivia game is available in the [`docs/`](docs/) folder and deploys automatically to GitHub Pages.
+
+**Live site:** [https://marksivan.github.io/trivia-application/](https://marksivan.github.io/trivia-application/)
+
+### Web features
+
+- Responsive design with light/dark mode
+- All 8 categories with 470+ questions
+- Real-time adaptive difficulty (same heap logic as the Java backend)
+- Configurable timer, question count, and local high scores
+
+### Local preview
+
+```bash
+python3 scripts/build-questions.py
+cd docs && python3 -m http.server 8080
+```
+
+Then open [http://localhost:8080](http://localhost:8080).
+
+### Enable GitHub Pages (one-time)
+
+1. Go to **Settings → Pages** in the GitHub repository
+2. Under **Build and deployment**, set **Source** to **GitHub Actions**
+3. Push to `main` — the workflow in [`.github/workflows/pages.yml`](.github/workflows/pages.yml) publishes the site
+
 ## How to Compile and Run:
 
 Open your terminal and follow the steps below:

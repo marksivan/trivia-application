@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Adaptive Trivia — questions that adjust to your skill level in real time.">
+  <title>Adaptive Trivia</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div class="app-bg" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">🧠</span>
+      <div>
+        <p class="brand-eyebrow">Mark &amp; Irenee</p>
+        <h1 class="brand-title">Adaptive Trivia</h1>
+      </div>
+    </div>
+    <div class="header-actions">
+      <button class="icon-btn" id="theme-toggle" type="button" aria-label="Toggle dark mode">
+        <span id="theme-icon">🌙</span>
+      </button>
+      <button class="btn btn-ghost" id="settings-btn" type="button">Settings</button>
+    </div>
+  </header>
+
+  <main id="app">
+    <!-- Landing -->
+    <section id="view-landing" class="view active">
+      <div class="hero">
+        <p class="hero-badge">Real-time adaptive difficulty</p>
+        <h2 class="hero-title">Trivia that grows with you</h2>
+        <p class="hero-copy">
+          Start at medium difficulty. Nail three in a row and face harder questions worth more points.
+          Miss three and the game eases up — then ramps back when you recover.
+        </p>
+        <div class="hero-actions">
+          <button class="btn btn-primary btn-lg" id="play-btn" type="button">Start Playing</button>
+          <button class="btn btn-secondary btn-lg" id="random-btn" type="button">Random Category</button>
+        </div>
+        <div class="hero-stats" id="hero-stats" hidden>
+          <div class="stat-card">
+            <span class="stat-value" id="stat-best">0%</span>
+            <span class="stat-label">Best Score</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-value" id="stat-games">0</span>
+            <span class="stat-label">Games Played</span>
+          </div>
+        </div>
+      </div>
+      <div class="rules-card">
+        <h3>How adaptation works</h3>
+        <ul class="rules-list">
+          <li><span class="pill pill-medium">Medium</span> Default questions · 10 pts</li>
+          <li><span class="pill pill-hard">Hard</span> After 3 correct in a row · 20 pts</li>
+          <li><span class="pill pill-easy">Easy</span> After 3 wrong in a row · 5 pts</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Categories -->
+    <section id="view-categories" class="view">
+      <div class="view-header">
+        <button class="btn btn-ghost back-btn" data-nav="landing" type="button">← Back</button>
+        <div>
+          <h2>Choose a category</h2>
+          <p class="view-subtitle">473 questions across 8 subjects</p>
+        </div>
+      </div>
+      <div class="category-grid" id="category-grid"></div>
+    </section>
+
+    <!-- Game -->
+    <section id="view-game" class="view">
+      <div class="game-topbar">
+        <button class="btn btn-ghost back-btn" id="quit-game-btn" type="button">← Quit</button>
+        <div class="game-meta">
+          <span class="category-pill" id="game-category"></span>
+          <span id="game-progress"></span>
+        </div>
+        <div class="score-chip">
+          <span>Score</span>
+          <strong id="game-score">0</strong>
+        </div>
+      </div>
+
+      <div class="game-layout">
+        <article class="question-card">
+          <div class="question-head">
+            <span class="difficulty-badge" id="difficulty-badge">Medium</span>
+            <div class="timer-wrap" aria-label="Question timer">
+              <svg class="timer-ring" viewBox="0 0 44 44" aria-hidden="true">
+                <circle class="timer-track" cx="22" cy="22" r="18"></circle>
+                <circle class="timer-progress" id="timer-progress" cx="22" cy="22" r="18"></circle>
+              </svg>
+              <span class="timer-text" id="timer-text">30</span>
+            </div>
+          </div>
+          <h2 class="question-text" id="question-text"></h2>
+          <div class="options-grid" id="options-grid"></div>
+        </article>
+
+        <aside class="streak-panel">
+          <h3>Streak tracker</h3>
+          <div class="streak-row">
+            <span>Correct streak</span>
+            <div class="streak-dots" id="correct-streak"></div>
+          </div>
+          <div class="streak-row">
+            <span>Wrong streak</span>
+            <div class="streak-dots wrong" id="wrong-streak"></div>
+          </div>
+          <p class="streak-hint" id="streak-hint">Keep answering to unlock harder questions.</p>
+        </aside>
+      </div>
+
+      <div class="feedback-banner" id="feedback-banner" hidden>
+        <p id="feedback-text"></p>
+        <button class="btn btn-primary" id="next-question-btn" type="button">Next Question</button>
+      </div>
+    </section>
+
+    <!-- Results -->
+    <section id="view-results" class="view">
+      <div class="results-card">
+        <p class="results-eyebrow">Game Over</p>
+        <h2 class="results-title" id="results-title">Great run!</h2>
+        <div class="results-score-ring">
+          <span class="results-percent" id="results-percent">0%</span>
+          <span class="results-points" id="results-points">0 / 0 pts</span>
+        </div>
+        <div class="results-grid">
+          <div><span id="results-correct">0</span><small>Correct</small></div>
+          <div><span id="results-wrong">0</span><small>Wrong</small></div>
+          <div><span id="results-category-label">—</span><small>Category</small></div>
+        </div>
+        <p class="results-message" id="results-message"></p>
+        <div class="results-actions">
+          <button class="btn btn-primary" id="play-again-btn" type="button">Play Again</button>
+          <button class="btn btn-secondary" data-nav="categories" type="button">New Category</button>
+          <button class="btn btn-ghost" data-nav="landing" type="button">Home</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Created by <strong>Irenee Niyibaho</strong> &amp; <strong>Mark Sivan Tamakloe</strong></p>
+    <p class="footer-note">Powered by adaptive heap-based question selection</p>
+  </footer>
+
+  <dialog class="modal" id="settings-modal">
+    <form method="dialog" class="modal-card" id="settings-form">
+      <div class="modal-header">
+        <h2>Settings</h2>
+        <button class="icon-btn" value="cancel" type="submit" aria-label="Close settings">✕</button>
+      </div>
+      <label class="field">
+        <span>Questions per game</span>
+        <input type="number" id="setting-questions" min="5" max="30" step="1">
+      </label>
+      <label class="field">
+        <span>Time per question (seconds)</span>
+        <input type="number" id="setting-timer" min="10" max="120" step="5">
+      </label>
+      <label class="field checkbox-field">
+        <input type="checkbox" id="setting-autosubmit">
+        <span>Auto-submit when time runs out</span>
+      </label>
+      <label class="field">
+        <span>Display name</span>
+        <input type="text" id="setting-username" maxlength="24" placeholder="Player">
+      </label>
+      <div class="modal-actions">
+        <button class="btn btn-ghost" value="cancel" type="submit">Cancel</button>
+        <button class="btn btn-secondary" id="reset-settings-btn" type="button">Reset Defaults</button>
+        <button class="btn btn-primary" id="save-settings-btn" type="button">Save</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="js/heap.js"></script>
+  <script src="js/game.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

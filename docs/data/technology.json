@@ -1,0 +1,827 @@
+[
+  {
+    "text": "What does HTTP stand for?",
+    "options": [
+      "HyperText Transport Protocol",
+      "HyperText Transfer Protocol",
+      "HyperType Transfer Protocol",
+      "Hyper Transfer Text Protocol"
+    ],
+    "correctIndex": 1,
+    "difficulty": 7
+  },
+  {
+    "text": "What is the main function of a motherboard?",
+    "options": [
+      "Provide power to the computer",
+      "House the CPU",
+      "Store data",
+      "Provide input/output ports"
+    ],
+    "correctIndex": 1,
+    "difficulty": 8
+  },
+  {
+    "text": "Which programming language is primarily used for web development?",
+    "options": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "Swift"
+    ],
+    "correctIndex": 1,
+    "difficulty": 9
+  },
+  {
+    "text": "What is the full form of the abbreviation 'URL'?",
+    "options": [
+      "Uniform Resource Locator",
+      "Uniform Resource Language",
+      "Universal Resource Locator",
+      "Universal Resource Language"
+    ],
+    "correctIndex": 1,
+    "difficulty": 8
+  },
+  {
+    "text": "In what year was the first iPhone released?",
+    "options": [
+      "2007",
+      "2006",
+      "2005",
+      "2008"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "What is the process of converting human-readable data into machine code called?",
+    "options": [
+      "Encoding",
+      "Decoding",
+      "Compression",
+      "Encryption"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the core function of an operating system?",
+    "options": [
+      "Manage hardware and software resources",
+      "Process data",
+      "Encrypt information",
+      "Develop applications"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which company developed the Android operating system?",
+    "options": [
+      "Google",
+      "Microsoft",
+      "Apple",
+      "IBM"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Central Program Unit",
+      "Central Programming Unit",
+      "Centralized Processing Unit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "Which of these is an example of a database management system?",
+    "options": [
+      "MySQL",
+      "WordPress",
+      "Windows",
+      "Excel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which programming language is known for its simplicity and readability?",
+    "options": [
+      "Python",
+      "Java",
+      "C++",
+      "Ruby"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is a 'bug' in computer programming?",
+    "options": [
+      "An error in the code",
+      "An additional feature",
+      "The user interface",
+      "A hardware component"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of the following is an example of a cloud storage service?",
+    "options": [
+      "Google Drive",
+      "Adobe Photoshop",
+      "Microsoft Word",
+      "Windows"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What does the acronym 'DNS' stand for?",
+    "options": [
+      "Domain Name System",
+      "Domain Network System",
+      "Digital Name System",
+      "Direct Network Service"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What programming language is primarily used for iOS app development?",
+    "options": [
+      "Objective-C",
+      "Swift",
+      "C++",
+      "Java"
+    ],
+    "correctIndex": 1,
+    "difficulty": 9
+  },
+  {
+    "text": "Which technology is primarily used for virtual reality?",
+    "options": [
+      "AR",
+      "VR",
+      "AI",
+      "Machine Learning"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of these devices is an example of a wearable technology?",
+    "options": [
+      "Smartwatch",
+      "Smartphone",
+      "Laptop",
+      "Tablet"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which file extension is commonly used for images?",
+    "options": [
+      ".jpg",
+      ".exe",
+      ".mp4",
+      ".doc"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which technology allows the use of voice assistants?",
+    "options": [
+      "Natural Language Processing",
+      "Augmented Reality",
+      "Artificial Intelligence",
+      "Virtual Reality"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "What does the term 'IoT' stand for?",
+    "options": [
+      "Internet of Things",
+      "Internet of Time",
+      "Interface of Technology",
+      "Intranet of Things"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the function of a router in a network?",
+    "options": [
+      "Transmit data between devices",
+      "Store data",
+      "Provide power",
+      "Encrypt communication"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which programming language is known as the language of the web?",
+    "options": [
+      "HTML",
+      "C++",
+      "JavaScript",
+      "Swift"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "Which technology is primarily used for self-driving cars?",
+    "options": [
+      "Machine Learning",
+      "Virtual Reality",
+      "Quantum Computing",
+      "Augmented Reality"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What does 'UI' stand for in the context of software development?",
+    "options": [
+      "User Interface",
+      "Unified Interface",
+      "User Intelligence",
+      "Unified Information"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is blockchain primarily used for?",
+    "options": [
+      "Cryptocurrency",
+      "Web development",
+      "Machine learning",
+      "Data storage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of the following is a popular cloud computing platform?",
+    "options": [
+      "AWS",
+      "GitHub",
+      "Google Chrome",
+      "Facebook"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which technology is at the heart of 3D printing?",
+    "options": [
+      "Additive Manufacturing",
+      "Subtractive Manufacturing",
+      "3D Modeling",
+      "Virtual Reality"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the name of the company that developed Windows?",
+    "options": [
+      "Apple",
+      "Microsoft",
+      "Google",
+      "IBM"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which type of machine learning involves teaching a model by showing it labeled examples?",
+    "options": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Reinforcement Learning",
+      "Deep Learning"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of these is used to store data in a computer?",
+    "options": [
+      "RAM",
+      "CPU",
+      "Hard Drive",
+      "Monitor"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "What does 'GPU' stand for?",
+    "options": [
+      "Graphics Processing Unit",
+      "General Processing Unit",
+      "Global Processing Unit",
+      "Graphical Program Unit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which programming language is known for its use in scientific computing?",
+    "options": [
+      "R",
+      "Java",
+      "Python",
+      "C++"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the main function of a web browser?",
+    "options": [
+      "Access websites",
+      "Encrypt data",
+      "Store files",
+      "Create websites"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the function of the 'kernel' in an operating system?",
+    "options": [
+      "Manage hardware",
+      "Run applications",
+      "Encrypt data",
+      "Store files"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of these is an open-source operating system?",
+    "options": [
+      "Linux",
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which device is commonly used to store and read digital media?",
+    "options": [
+      "Flash Drive",
+      "Monitor",
+      "Speaker",
+      "Router"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What does 'HTTP' stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Transfer Protocol",
+      "HyperText Transport Protocol",
+      "High Transfer Text Protocol"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which term describes the process of transforming data into an unreadable format?",
+    "options": [
+      "Encryption",
+      "Decryption",
+      "Encoding",
+      "Transmission"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which company developed the first personal computer?",
+    "options": [
+      "Apple",
+      "Microsoft",
+      "IBM",
+      "Atari"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "Which programming language is primarily used for web backend development?",
+    "options": [
+      "PHP",
+      "Swift",
+      "Python",
+      "JavaScript"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the function of an antivirus program?",
+    "options": [
+      "Protect from malware",
+      "Speed up the computer",
+      "Manage files",
+      "Encrypt data"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of these is an example of a search engine?",
+    "options": [
+      "Google",
+      "Bing",
+      "Yahoo",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": 10
+  },
+  {
+    "text": "Which is the primary function of a database?",
+    "options": [
+      "Store and organize data",
+      "Encrypt data",
+      "Filter data",
+      "Display data"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which term refers to an online platform for coding competitions?",
+    "options": [
+      "LeetCode",
+      "GitHub",
+      "Stack Overflow",
+      "Reddit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which technology is used in the development of chatbots?",
+    "options": [
+      "Natural Language Processing",
+      "Quantum Computing",
+      "Blockchain",
+      "Virtual Reality"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which type of data is typically stored in a database?",
+    "options": [
+      "Structured Data",
+      "Unstructured Data",
+      "Multimedia Data",
+      "All of the above"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which programming language was designed by Google?",
+    "options": [
+      "Go",
+      "Swift",
+      "Python",
+      "Java"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which company created the smartphone known as the 'Galaxy'?",
+    "options": [
+      "Apple",
+      "Google",
+      "Samsung",
+      "LG"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "Which component of a computer is responsible for executing instructions?",
+    "options": [
+      "CPU",
+      "RAM",
+      "Hard Drive",
+      "Graphics Card"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which programming language is widely used for mobile app development?",
+    "options": [
+      "Java",
+      "Swift",
+      "C++",
+      "JavaScript"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which technology is commonly used for the development of artificial intelligence?",
+    "options": [
+      "Machine Learning",
+      "Augmented Reality",
+      "Cloud Computing",
+      "Quantum Computing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which type of software is Adobe Photoshop?",
+    "options": [
+      "Graphics Design Software",
+      "Web Development Software",
+      "Operating System",
+      "Office Software"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is a primary purpose of a Content Management System (CMS)?",
+    "options": [
+      "Manage website content",
+      "Encrypt user data",
+      "Store large files",
+      "Develop programming code"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What does the acronym 'HTML' stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "High Tech Media Language",
+      "Hyperlink Text Markup Language",
+      "Hyperlink Technology Markup Language"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of the following is a machine learning algorithm?",
+    "options": [
+      "K-means",
+      "MDX",
+      "SQL",
+      "Python"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which is used to protect personal information on a website?",
+    "options": [
+      "SSL Certificate",
+      "JavaScript",
+      "Cloud Computing",
+      "Firewall"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which company is known for creating the iPhone?",
+    "options": [
+      "Samsung",
+      "Google",
+      "Apple",
+      "Microsoft"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "Which technology is commonly used for augmented reality?",
+    "options": [
+      "Google Cardboard",
+      "Smartphone Cameras",
+      "QR Codes",
+      "Smartwatches"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which type of programming is used in web development?",
+    "options": [
+      "Frontend Development",
+      "Backend Development",
+      "Full Stack Development",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of the following technologies is used in facial recognition?",
+    "options": [
+      "AI",
+      "Machine Learning",
+      "Neural Networks",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": 11
+  },
+  {
+    "text": "Which type of neural network is used for image recognition?",
+    "options": [
+      "Convolutional Neural Network",
+      "Recurrent Neural Network",
+      "Generative Adversarial Network",
+      "Radial Basis Function Network"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "What is the main advantage of cloud computing?",
+    "options": [
+      "Scalability",
+      "Security",
+      "Speed",
+      "Cost"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which of the following is a feature of quantum computing?",
+    "options": [
+      "Superposition",
+      "Encryption",
+      "Compression",
+      "Virtualization"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "What is the purpose of a compiler in programming?",
+    "options": [
+      "Convert code to machine-readable form",
+      "Encrypt data",
+      "Compile code into an executable",
+      "Store data"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which language is commonly used for server-side scripting?",
+    "options": [
+      "PHP",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which technology is most closely associated with the concept of 'big data'?",
+    "options": [
+      "Machine Learning",
+      "Cloud Computing",
+      "Blockchain",
+      "Artificial Intelligence"
+    ],
+    "correctIndex": 1,
+    "difficulty": 11
+  },
+  {
+    "text": "Which of these is an example of an autonomous robot?",
+    "options": [
+      "Roomba",
+      "Self-driving car",
+      "Drone",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": 11
+  },
+  {
+    "text": "Which platform is most widely used for open-source software development?",
+    "options": [
+      "GitHub",
+      "GitLab",
+      "SourceForge",
+      "Bitbucket"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which technology uses smart sensors and networks to connect physical devices?",
+    "options": [
+      "Internet of Things",
+      "Machine Learning",
+      "Cloud Computing",
+      "Artificial Intelligence"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which of the following programming languages is used in Android app development?",
+    "options": [
+      "Kotlin",
+      "Swift",
+      "Java",
+      "C#"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which of these is an example of a digital assistant?",
+    "options": [
+      "Siri",
+      "Alexa",
+      "Google Assistant",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": 12
+  },
+  {
+    "text": "Which of the following is associated with self-learning systems?",
+    "options": [
+      "Artificial Intelligence",
+      "Blockchain",
+      "Cloud Computing",
+      "Quantum Computing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "Which programming language is known for its use in data analysis?",
+    "options": [
+      "Python",
+      "R",
+      "Java",
+      "Swift"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "Which of these technologies is used to store and manage large amounts of data?",
+    "options": [
+      "Big Data",
+      "Cloud Computing",
+      "Blockchain",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": 12
+  },
+  {
+    "text": "Which of these programming paradigms is based on the concept of 'objects'?",
+    "options": [
+      "Object-Oriented Programming",
+      "Functional Programming",
+      "Procedural Programming",
+      "Declarative Programming"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  }
+]
