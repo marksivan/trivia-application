@@ -1,11 +1,11 @@
 :root {
-  --bg: #f4f7fb;
-  --bg-accent: #e8eef8;
-  --surface: rgba(255, 255, 255, 0.82);
+  --bg: #eef1f6;
+  --surface: #ffffff;
   --surface-strong: #ffffff;
+  --surface-muted: #f3f5f9;
   --text: #152033;
   --text-muted: #5b667a;
-  --border: rgba(21, 32, 51, 0.08);
+  --border: #d8dee8;
   --primary: #2f6fed;
   --primary-hover: #2559c7;
   --secondary: #16a34a;
@@ -19,13 +19,13 @@
 }
 
 [data-theme="dark"] {
-  --bg: #0d1118;
-  --bg-accent: #151b27;
-  --surface: rgba(24, 31, 44, 0.86);
-  --surface-strong: #1b2433;
+  --bg: #0f141d;
+  --surface: #1a2230;
+  --surface-strong: #1a2230;
+  --surface-muted: #232d3d;
   --text: #eef2f8;
   --text-muted: #9aa6bb;
-  --border: rgba(255, 255, 255, 0.08);
+  --border: #2d384a;
   --primary: #5b8dff;
   --primary-hover: #7aa2ff;
   --secondary: #34d399;
@@ -55,11 +55,7 @@ body {
 .app-bg {
   position: fixed;
   inset: 0;
-  background:
-    radial-gradient(circle at 15% 20%, rgba(47, 111, 237, 0.18), transparent 28%),
-    radial-gradient(circle at 85% 10%, rgba(22, 163, 74, 0.14), transparent 24%),
-    radial-gradient(circle at 70% 80%, rgba(245, 158, 11, 0.12), transparent 30%),
-    linear-gradient(180deg, var(--bg), var(--bg-accent));
+  background: var(--bg);
   z-index: -1;
 }
 
@@ -208,8 +204,7 @@ h1, h2, h3, .brand-title, .hero-title, .results-title {
 .hero {
   padding: 2rem;
   border-radius: calc(var(--radius) + 6px);
-  background: var(--surface);
-  backdrop-filter: blur(14px);
+  background: var(--surface-strong);
   box-shadow: var(--shadow);
   border: 1px solid var(--border);
 }
@@ -219,8 +214,12 @@ h1, h2, h3, .brand-title, .hero-title, .results-title {
   margin-bottom: 0.8rem;
   padding: 0.35rem 0.7rem;
   border-radius: 999px;
-  background: rgba(47, 111, 237, 0.12);
+  background: #dbeafe;
   color: var(--primary);
+}
+
+[data-theme="dark"] .hero-badge {
+  background: #1e3a5f;
 }
 
 .hero-title {
@@ -311,20 +310,38 @@ h1, h2, h3, .brand-title, .hero-title, .results-title {
 
 .pill-medium,
 .difficulty-badge.pill-medium {
-  background: rgba(47, 111, 237, 0.14);
-  color: var(--primary);
+  background: #dbeafe;
+  color: #1d4ed8;
 }
 
 .pill-hard,
 .difficulty-badge.pill-hard {
-  background: rgba(220, 38, 38, 0.14);
-  color: var(--danger);
+  background: #fee2e2;
+  color: #b91c1c;
 }
 
 .pill-easy,
 .difficulty-badge.pill-easy {
-  background: rgba(22, 163, 74, 0.14);
-  color: var(--secondary);
+  background: #dcfce7;
+  color: #15803d;
+}
+
+[data-theme="dark"] .pill-medium,
+[data-theme="dark"] .difficulty-badge.pill-medium {
+  background: #1e3a5f;
+  color: #93c5fd;
+}
+
+[data-theme="dark"] .pill-hard,
+[data-theme="dark"] .difficulty-badge.pill-hard {
+  background: #4c1d1d;
+  color: #fca5a5;
+}
+
+[data-theme="dark"] .pill-easy,
+[data-theme="dark"] .difficulty-badge.pill-easy {
+  background: #14532d;
+  color: #86efac;
 }
 
 .view-header {
@@ -356,10 +373,9 @@ h1, h2, h3, .brand-title, .hero-title, .results-title {
   padding: 1.2rem;
   text-align: left;
   border-radius: var(--radius);
-  background:
-    linear-gradient(145deg, color-mix(in srgb, var(--accent) 18%, transparent), transparent),
-    var(--surface-strong);
-  border: 1px solid color-mix(in srgb, var(--accent) 28%, var(--border));
+  background: var(--surface-strong);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
   color: var(--text);
 }
 
@@ -396,9 +412,14 @@ h1, h2, h3, .brand-title, .hero-title, .results-title {
 .category-pill {
   padding: 0.35rem 0.7rem;
   border-radius: 999px;
-  background: rgba(47, 111, 237, 0.12);
-  color: var(--primary);
+  background: #dbeafe;
+  color: #1d4ed8;
   font-weight: 700;
+}
+
+[data-theme="dark"] .category-pill {
+  background: #1e3a5f;
+  color: #93c5fd;
 }
 
 .score-chip {
@@ -461,7 +482,7 @@ h1, h2, h3, .brand-title, .hero-title, .results-title {
 }
 
 .timer-track {
-  stroke: rgba(127, 127, 127, 0.18);
+  stroke: var(--border);
 }
 
 .timer-progress {
@@ -501,7 +522,7 @@ h1, h2, h3, .brand-title, .hero-title, .results-title {
   gap: 0.7rem;
   padding: 1rem;
   border-radius: 16px;
-  background: var(--surface);
+  background: var(--surface-muted);
   border: 1px solid var(--border);
   color: var(--text);
   text-align: left;
@@ -514,19 +535,34 @@ h1, h2, h3, .brand-title, .hero-title, .results-title {
   min-width: 1.8rem;
   height: 1.8rem;
   border-radius: 999px;
-  background: rgba(47, 111, 237, 0.12);
-  color: var(--primary);
+  background: #dbeafe;
+  color: #1d4ed8;
   font-weight: 700;
 }
 
+[data-theme="dark"] .option-label {
+  background: #1e3a5f;
+  color: #93c5fd;
+}
+
 .option-btn.correct {
-  border-color: rgba(22, 163, 74, 0.45);
-  background: rgba(22, 163, 74, 0.12);
+  border-color: #16a34a;
+  background: #dcfce7;
+}
+
+[data-theme="dark"] .option-btn.correct {
+  border-color: #22c55e;
+  background: #14532d;
 }
 
 .option-btn.incorrect {
-  border-color: rgba(220, 38, 38, 0.45);
-  background: rgba(220, 38, 38, 0.12);
+  border-color: #dc2626;
+  background: #fee2e2;
+}
+
+[data-theme="dark"] .option-btn.incorrect {
+  border-color: #ef4444;
+  background: #4c1d1d;
 }
 
 .option-btn:disabled {
@@ -555,7 +591,7 @@ h1, h2, h3, .brand-title, .hero-title, .results-title {
   width: 0.75rem;
   height: 0.75rem;
   border-radius: 999px;
-  background: rgba(127, 127, 127, 0.18);
+  background: var(--border);
 }
 
 .streak-dots .dot.filled {
@@ -578,11 +614,23 @@ h1, h2, h3, .brand-title, .hero-title, .results-title {
 }
 
 .feedback-banner.success {
-  background: rgba(22, 163, 74, 0.12);
+  background: #dcfce7;
+  border-color: #86efac;
+}
+
+[data-theme="dark"] .feedback-banner.success {
+  background: #14532d;
+  border-color: #166534;
 }
 
 .feedback-banner.error {
-  background: rgba(220, 38, 38, 0.12);
+  background: #fee2e2;
+  border-color: #fca5a5;
+}
+
+[data-theme="dark"] .feedback-banner.error {
+  background: #4c1d1d;
+  border-color: #991b1b;
 }
 
 .feedback-banner p {
@@ -659,8 +707,7 @@ h1, h2, h3, .brand-title, .hero-title, .results-title {
 }
 
 .modal::backdrop {
-  background: rgba(10, 14, 22, 0.55);
-  backdrop-filter: blur(4px);
+  background: #0f141dcc;
 }
 
 .modal-card {
