@@ -1,0 +1,640 @@
+[
+  {
+    "text": "Who won the 2022 FIFA World Cup?",
+    "options": [
+      "France",
+      "Brazil",
+      "Argentina",
+      "Germany"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "Which country hosted the 2008 Summer Olympics?",
+    "options": [
+      "China",
+      "United States",
+      "Japan",
+      "Germany"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "Who holds the record for the most home runs in a single MLB season?",
+    "options": [
+      "Barry Bonds",
+      "Mark McGwire",
+      "Steroid Roger Clemens",
+      "Sammy Sosa"
+    ],
+    "correctIndex": 0,
+    "difficulty": 8
+  },
+  {
+    "text": "Which NBA team won the 2020 NBA Finals?",
+    "options": [
+      "Los Angeles Lakers",
+      "Miami Heat",
+      "Golden State Warriors",
+      "Boston Celtics"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "What is the distance of a marathon race?",
+    "options": [
+      "26.2 miles",
+      "30 miles",
+      "24 miles",
+      "20 miles"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which NFL player holds the record for most career touchdown passes?",
+    "options": [
+      "Tom Brady",
+      "Peyton Manning",
+      "Joe Montana",
+      "Drew Brees"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "Who is known as 'The Greatest of All Time' in boxing?",
+    "options": [
+      "Muhammad Ali",
+      "Floyd Mayweather",
+      "Joe Frazier",
+      "George Foreman"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "Which team won the 2016 UEFA Champions League?",
+    "options": [
+      "Real Madrid",
+      "Barcelona",
+      "Bayern Munich",
+      "Atletico Madrid"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which tennis player has the most Grand Slam singles titles?",
+    "options": [
+      "Roger Federer",
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Serena Williams"
+    ],
+    "correctIndex": 2,
+    "difficulty": 9
+  },
+  {
+    "text": "Which team won the 2021 Super Bowl?",
+    "options": [
+      "Kansas City Chiefs",
+      "Tampa Bay Buccaneers",
+      "New England Patriots",
+      "San Francisco 49ers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 9
+  },
+  {
+    "text": "Which country has won the most Rugby World Cup titles?",
+    "options": [
+      "New Zealand",
+      "South Africa",
+      "Australia",
+      "England"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which country is the birthplace of the sport of rugby?",
+    "options": [
+      "England",
+      "Australia",
+      "New Zealand",
+      "South Africa"
+    ],
+    "correctIndex": 0,
+    "difficulty": 8
+  },
+  {
+    "text": "Who holds the record for the most Olympic gold medals?",
+    "options": [
+      "Michael Phelps",
+      "Usain Bolt",
+      "Larisa Latynina",
+      "Paavo Nurmi"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which basketball player is known as 'King James'?",
+    "options": [
+      "Kobe Bryant",
+      "Michael Jordan",
+      "LeBron James",
+      "Kevin Durant"
+    ],
+    "correctIndex": 2,
+    "difficulty": 9
+  },
+  {
+    "text": "Which country won the most gold medals at the 2008 Summer Olympics?",
+    "options": [
+      "United States",
+      "China",
+      "Russia",
+      "Great Britain"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the maximum score possible in a single game of ten-pin bowling?",
+    "options": [
+      "300",
+      "200",
+      "500",
+      "100"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "Who was the first female athlete to win an Olympic gold medal in boxing?",
+    "options": [
+      "Nicola Adams",
+      "Claressa Shields",
+      "Valentina Shevchenko",
+      "Laila Ali"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "Which country won the first World Cup in 1930?",
+    "options": [
+      "Brazil",
+      "Argentina",
+      "Uruguay",
+      "Germany"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the name of the famous Formula 1 race held annually in Monaco?",
+    "options": [
+      "Monaco Grand Prix",
+      "Italian Grand Prix",
+      "Spanish Grand Prix",
+      "British Grand Prix"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "Which country has the most NBA championships?",
+    "options": [
+      "United States",
+      "Spain",
+      "France",
+      "Argentina"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "Who is the all-time top scorer in the NBA?",
+    "options": [
+      "LeBron James",
+      "Kareem Abdul-Jabbar",
+      "Michael Jordan",
+      "Kobe Bryant"
+    ],
+    "correctIndex": 0,
+    "difficulty": 1
+  },
+  {
+    "text": "Which swimmer won 7 gold medals at the 1972 Summer Olympics?",
+    "options": [
+      "Michael Phelps",
+      "Mark Spitz",
+      "Matt Biondi",
+      "Katie Ledecky"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Who won the 2019 FIFA Women's World Cup?",
+    "options": [
+      "United States",
+      "Germany",
+      "Japan",
+      "Sweden"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What year was the first modern Olympic Games held?",
+    "options": [
+      "1896",
+      "1900",
+      "1912",
+      "1924"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "Which NFL team drafted Tom Brady?",
+    "options": [
+      "New England Patriots",
+      "Detroit Lions",
+      "New York Jets",
+      "Miami Dolphins"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "Which MLB team is known as 'The Red Sox'?",
+    "options": [
+      "Boston Red Sox",
+      "Chicago Cubs",
+      "Los Angeles Dodgers",
+      "New York Yankees"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which tennis tournament is played on grass courts?",
+    "options": [
+      "Wimbledon",
+      "French Open",
+      "US Open",
+      "Australian Open"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "Who won the 2020 Masters Tournament in golf?",
+    "options": [
+      "Dustin Johnson",
+      "Jordan Spieth",
+      "Tiger Woods",
+      "Phil Mickelson"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which soccer player is known for his famous 'Hand of God' goal?",
+    "options": [
+      "Lionel Messi",
+      "Diego Maradona",
+      "Cristiano Ronaldo",
+      "Neymar Jr."
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which city hosted the 1992 Summer Olympics?",
+    "options": [
+      "Barcelona",
+      "Atlanta",
+      "Beijing",
+      "London"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which NFL team is known as the 'Steelers'?",
+    "options": [
+      "Pittsburgh Steelers",
+      "Dallas Cowboys",
+      "Chicago Bears",
+      "New York Giants"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Who won the 2019 NBA MVP?",
+    "options": [
+      "Giannis Antetokounmpo",
+      "James Harden",
+      "LeBron James",
+      "Kawhi Leonard"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which city is home to the football team the Cowboys?",
+    "options": [
+      "Dallas",
+      "New York",
+      "Miami",
+      "Chicago"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "Who holds the record for the most goals scored in a single World Cup tournament?",
+    "options": [
+      "Just Fontaine",
+      "Pele",
+      "Mi\u0142osz Kwiatkowski",
+      "Harry Kane"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "Which American football player is known for the 'Immaculate Reception'?",
+    "options": [
+      "Franco Harris",
+      "Terry Bradshaw",
+      "Ben Roethlisberger",
+      "Antonio Brown"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which country has the most gold medals in Winter Olympics history?",
+    "options": [
+      "Norway",
+      "United States",
+      "Canada",
+      "Sweden"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which NBA player is known as 'The Black Mamba'?",
+    "options": [
+      "Kobe Bryant",
+      "LeBron James",
+      "Kevin Durant",
+      "Stephen Curry"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What year did the Chicago Cubs win the World Series after a 108-year drought?",
+    "options": [
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Who is the most decorated Olympian of all time?",
+    "options": [
+      "Michael Phelps",
+      "Usain Bolt",
+      "Larisa Latynina",
+      "Carl Lewis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which NFL quarterback has the most career passing yards?",
+    "options": [
+      "Tom Brady",
+      "Peyton Manning",
+      "Drew Brees",
+      "Joe Montana"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "Who is known as 'The King of Clay' in tennis?",
+    "options": [
+      "Roger Federer",
+      "Novak Djokovic",
+      "Rafael Nadal",
+      "Andy Murray"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "Which sport does Tiger Woods play?",
+    "options": [
+      "Golf",
+      "Tennis",
+      "Baseball",
+      "Soccer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which NBA team drafted Dirk Nowitzki?",
+    "options": [
+      "Milwaukee Bucks",
+      "Dallas Mavericks",
+      "Boston Celtics",
+      "Los Angeles Lakers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Who is the all-time top scorer in the history of the Premier League?",
+    "options": [
+      "Wayne Rooney",
+      "Alan Shearer",
+      "Frank Lampard",
+      "Steven Gerrard"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which country is known for producing the most Olympic sprinters?",
+    "options": [
+      "Jamaica",
+      "United States",
+      "Keniya",
+      "Brazil"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which soccer player holds the record for the most goals in a single season in La Liga?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Raul",
+      "Toni Kroos"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which famous tennis player has a rivalry with Roger Federer?",
+    "options": [
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Andy Murray",
+      "Juan Martin del Potro"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which NBA player is known for his skyhook shot?",
+    "options": [
+      "Kareem Abdul-Jabbar",
+      "Magic Johnson",
+      "LeBron James",
+      "Michael Jordan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which country won the 2021 Copa Am\u00e9rica?",
+    "options": [
+      "Argentina",
+      "Brazil",
+      "Colombia",
+      "Chile"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which country has the most FIFA Women's World Cup titles?",
+    "options": [
+      "United States",
+      "Germany",
+      "Brazil",
+      "Sweden"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which famous boxer is known for his rivalry with Sugar Ray Leonard?",
+    "options": [
+      "Thomas Hearns",
+      "Joe Frazier",
+      "Oscar De La Hoya",
+      "Evander Holyfield"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which American football team is known as 'The Packers'?",
+    "options": [
+      "Green Bay Packers",
+      "New England Patriots",
+      "San Francisco 49ers",
+      "Chicago Bears"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Who was the first soccer player to win the Ballon d'Or five times?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Michel Platini",
+      "Zinedine Zidane"
+    ],
+    "correctIndex": 1,
+    "difficulty": 12
+  },
+  {
+    "text": "Which sport is known as the 'King of Sports'?",
+    "options": [
+      "Soccer",
+      "Cricket",
+      "Tennis",
+      "Basketball"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "Who won the 2016 Summer Olympics men's 100-meter sprint?",
+    "options": [
+      "Usain Bolt",
+      "Justin Gatlin",
+      "Yohan Blake",
+      "Asafa Powell"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "Which country has the most gold medals in the Summer Olympics?",
+    "options": [
+      "United States",
+      "China",
+      "Russia",
+      "Germany"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which tennis player is known for his two-handed backhand?",
+    "options": [
+      "Novak Djokovic",
+      "Rafael Nadal",
+      "Andy Murray",
+      "Stan Wawrinka"
+    ],
+    "correctIndex": 3,
+    "difficulty": 12
+  },
+  {
+    "text": "Which basketball player was nicknamed 'The Big Fundamental'?",
+    "options": [
+      "Tim Duncan",
+      "Kevin Garnett",
+      "Paul Pierce",
+      "Ray Allen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  }
+]

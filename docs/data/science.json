@@ -1,0 +1,860 @@
+[
+  {
+    "text": "What is the primary constituent of the Earth\u2019s core?",
+    "options": [
+      "Oxygen",
+      "Iron",
+      "Nitrogen",
+      "Magnesium"
+    ],
+    "correctIndex": 1,
+    "difficulty": 1
+  },
+  {
+    "text": "Which planet is closest to the Sun?",
+    "options": [
+      "Venus",
+      "Earth",
+      "Mars",
+      "Mercury"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3
+  },
+  {
+    "text": "What is the chemical symbol for water?",
+    "options": [
+      "H2O",
+      "O2",
+      "CO2",
+      "NaCl"
+    ],
+    "correctIndex": 0,
+    "difficulty": 5
+  },
+  {
+    "text": "Which of these is a noble gas?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Argon",
+      "Hydrogen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 7
+  },
+  {
+    "text": "What is the chemical formula for methane?",
+    "options": [
+      "CH4",
+      "C2H6",
+      "CO2",
+      "O2"
+    ],
+    "correctIndex": 0,
+    "difficulty": 6
+  },
+  {
+    "text": "What is the boiling point of water in Celsius?",
+    "options": [
+      "0\u00b0C",
+      "50\u00b0C",
+      "100\u00b0C",
+      "150\u00b0C"
+    ],
+    "correctIndex": 2,
+    "difficulty": 8
+  },
+  {
+    "text": "What is the process by which plants make their food?",
+    "options": [
+      "Photosynthesis",
+      "Growth",
+      "Respiration",
+      "Absorption"
+    ],
+    "correctIndex": 0,
+    "difficulty": 4
+  },
+  {
+    "text": "What gas do plants absorb during photosynthesis?",
+    "options": [
+      "Carbon Dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 9
+  },
+  {
+    "text": "What is the smallest unit of matter?",
+    "options": [
+      "Molecule",
+      "Atom",
+      "Proton",
+      "Electron"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2
+  },
+  {
+    "text": "What element is a liquid at room temperature?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen",
+      "Mercury"
+    ],
+    "correctIndex": 3,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the primary constituent of the Earth\u2019s core?",
+    "options": [
+      "Oxygen",
+      "Iron",
+      "Nitrogen",
+      "Magnesium"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which planet has the longest day?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Earth",
+      "Jupiter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the name of the process that breaks down glucose to produce energy?",
+    "options": [
+      "Glycolysis",
+      "Photosynthesis",
+      "Cellular Respiration",
+      "Fermentation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the most stable form of carbon?",
+    "options": [
+      "Diamond",
+      "Graphite",
+      "Fullerenes",
+      "Graphene"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of these subatomic particles has no charge?",
+    "options": [
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Photon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the main reason why some metals conduct electricity better than others?",
+    "options": [
+      "Electron affinity",
+      "Electrical conductivity",
+      "Atomic size",
+      "Electron mobility"
+    ],
+    "correctIndex": 3,
+    "difficulty": 10
+  },
+  {
+    "text": "What phenomenon explains the bending of light as it passes through different mediums?",
+    "options": [
+      "Refraction",
+      "Reflection",
+      "Diffraction",
+      "Dispersion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the mass of an electron?",
+    "options": [
+      "9.11 \u00d7 10\u207b\u00b3\u00b9 kg",
+      "1.67 \u00d7 10\u207b\u00b2\u2077 kg",
+      "1.67 \u00d7 10\u207b\u00b9\u2076 kg",
+      "9.11 \u00d7 10\u207b\u00b2\u2077 kg"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What type of bond occurs when electrons are shared equally between atoms?",
+    "options": [
+      "Ionic bond",
+      "Covalent bond",
+      "Polar covalent bond",
+      "Metallic bond"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the name of the molecule that stores genetic information?",
+    "options": [
+      "RNA",
+      "DNA",
+      "ATP",
+      "Protein"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which theory explains the motion of tectonic plates?",
+    "options": [
+      "Theory of Relativity",
+      "Quantum Mechanics",
+      "Plate Tectonics",
+      "Geocentric Theory"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "What does the term half-life refer to in chemistry?",
+    "options": [
+      "The time it takes for half of a sample to react",
+      "The time it takes for half of a sample to decay",
+      "The time it takes for half of a substance to burn",
+      "The time it takes for half of a sample to evaporate"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the force that keeps the planets in orbit around the Sun?",
+    "options": [
+      "Electromagnetic force",
+      "Gravitational force",
+      "Strong nuclear force",
+      "Weak nuclear force"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the central region of an atom called?",
+    "options": [
+      "Electron cloud",
+      "Nucleus",
+      "Orbital shell",
+      "Subatomic nucleus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which gas makes up approximately 78% of the Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Argon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "What phenomenon is responsible for the sky appearing blue during the day?",
+    "options": [
+      "Refraction",
+      "Scattering",
+      "Reflection",
+      "Absorption"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the name of the largest moon of Saturn?",
+    "options": [
+      "Titan",
+      "Europa",
+      "Io",
+      "Callisto"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What element is commonly used in X-ray technology?",
+    "options": [
+      "Carbon",
+      "Gold",
+      "Lead",
+      "Tungsten"
+    ],
+    "correctIndex": 3,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the name of the biological process used to convert light into chemical energy?",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Oxidation",
+      "Reduction"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the Heisenberg Uncertainty Principle?",
+    "options": [
+      "It is impossible to simultaneously know the position and velocity of a particle",
+      "Energy cannot be created or destroyed",
+      "Light behaves as both a particle and a wave",
+      "The universe is made of atoms"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "What does the term 'black hole' refer to?",
+    "options": [
+      "A collapsed star with intense gravity",
+      "A dark region in space that absorbs light",
+      "An object that warps space-time",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": 12
+  },
+  {
+    "text": "What process is responsible for the formation of stars?",
+    "options": [
+      "Fusion",
+      "Supernova",
+      "Condensation",
+      "Accretion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 13
+  },
+  {
+    "text": "What type of reaction occurs when an atom's nucleus is split?",
+    "options": [
+      "Fission",
+      "Fusion",
+      "Radioactive decay",
+      "Alpha decay"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which particle is responsible for the strong nuclear force?",
+    "options": [
+      "Photon",
+      "Neutron",
+      "Quark",
+      "Gluon"
+    ],
+    "correctIndex": 3,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the main component of the Sun?",
+    "options": [
+      "Hydrogen",
+      "Helium",
+      "Carbon",
+      "Iron"
+    ],
+    "correctIndex": 0,
+    "difficulty": 15
+  },
+  {
+    "text": "What is the name of the region around a black hole where nothing can escape?",
+    "options": [
+      "Event Horizon",
+      "Photon Sphere",
+      "Accretion Disk",
+      "Singularity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the principle of conservation of mass?",
+    "options": [
+      "Matter cannot be created or destroyed",
+      "Energy cannot be created or destroyed",
+      "Mass is relative to the speed of light",
+      "Energy and matter are interchangeable"
+    ],
+    "correctIndex": 0,
+    "difficulty": 15
+  },
+  {
+    "text": "What is the equation that defines Einstein\u2019s theory of relativity?",
+    "options": [
+      "E = mc\u00b2",
+      "PV = nRT",
+      "F = ma",
+      "V = IR"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2
+  },
+  {
+    "text": "What principle implies measurement disturbs a quantum system",
+    "options": [
+      "Heisenberg Uncertainty Principle",
+      "Pauli Exclusion Principle",
+      "Superposition Principle",
+      "Complementarity Principle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What tensor describes the curvature of spacetime",
+    "options": [
+      "Einstein Tensor",
+      "Riemann Curvature Tensor",
+      "Metric Tensor",
+      "Stress Energy Tensor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "What law states energy cannot be created or destroyed",
+    "options": [
+      "First Law of Thermodynamics",
+      "Second Law of Thermodynamics",
+      "Conservation of Momentum",
+      "Conservation of Charge"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What principle explains light behaving as particle and wave",
+    "options": [
+      "Complementarity Principle",
+      "Photoelectric Principle",
+      "Heisenberg Principle",
+      "Pauli Principle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What effect causes spectral lines to shift due to motion",
+    "options": [
+      "Doppler Effect",
+      "Zeeman Effect",
+      "Stark Effect",
+      "Compton Effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What process in stars transports energy by bulk fluid motion",
+    "options": [
+      "Convection",
+      "Radiation",
+      "Conduction",
+      "Advection"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What cycle describes nitrogen conversion in ecosystems",
+    "options": [
+      "Nitrogen Cycle",
+      "Water Cycle",
+      "Carbon Cycle",
+      "Phosphorus Cycle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What law relates gas pressure and volume at constant temperature",
+    "options": [
+      "Boyle Law",
+      "Charles Law",
+      "Avogadro Law",
+      "Ideal Gas Law"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What conjecture posits singularities are hidden from observers",
+    "options": [
+      "Cosmic Censorship",
+      "No Hair Theorem",
+      "Equivalence Principle",
+      "Pauli Exclusion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What principle states probabilities derive from wave functions",
+    "options": [
+      "Born Rule",
+      "Pauli Exclusion Principle",
+      "Correspondence Principle",
+      "Uncertainty Principle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What limit sets maximum speed for information transfer",
+    "options": [
+      "Speed of Light Limit",
+      "Chandrasekhar Limit",
+      "Heisenberg Limit",
+      "Planck Limit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What equation relates mass and energy",
+    "options": [
+      "Mass Energy Equivalence",
+      "Navier Stokes Equation",
+      "Schroedinger Equation",
+      "Maxwell Equation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What phenomenon allows electrons to tunnel through barriers",
+    "options": [
+      "Quantum Tunneling",
+      "Photoelectric Effect",
+      "Compton Scattering",
+      "Blackbody Radiation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What principle orders electrons in atomic shells",
+    "options": [
+      "Aufbau Principle",
+      "Hunds Rule",
+      "Pauli Exclusion Principle",
+      "Periodic Law"
+    ],
+    "correctIndex": 0,
+    "difficulty": 1
+  },
+  {
+    "text": "What interaction is mediated by gluons",
+    "options": [
+      "Strong Nuclear Force",
+      "Weak Nuclear Force",
+      "Electromagnetic Force",
+      "Gravitational Force"
+    ],
+    "correctIndex": 0,
+    "difficulty": 14
+  },
+  {
+    "text": "What effect explains emission of electrons from metals by light",
+    "options": [
+      "Photoelectric Effect",
+      "Compton Effect",
+      "Hall Effect",
+      "Cherenkov Effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What law describes entropy increase in isolated systems",
+    "options": [
+      "Second Law of Thermodynamics",
+      "First Law of Thermodynamics",
+      "Third Law of Thermodynamics",
+      "Zeroth Law of Thermodynamics"
+    ],
+    "correctIndex": 0,
+    "difficulty": 13
+  },
+  {
+    "text": "What measurement principle limits simultaneous position and momentum knowledge",
+    "options": [
+      "Uncertainty Principle",
+      "Correspondence Principle",
+      "Quantum Number Principle",
+      "Pauli Exclusion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 14
+  },
+  {
+    "text": "What force binds protons and neutrons in nucleus",
+    "options": [
+      "Strong Nuclear Force",
+      "Weak Nuclear Force",
+      "Gravitational Force",
+      "Electromagnetic Force"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What concept describes particles with half integer spin",
+    "options": [
+      "Fermions",
+      "Bosons",
+      "Leptons",
+      "Hadrons"
+    ],
+    "correctIndex": 0,
+    "difficulty": 18
+  },
+  {
+    "text": "What process converts pyruvate to acetyl CoA",
+    "options": [
+      "Glycolysis",
+      "Citric Acid Cycle",
+      "Pyruvate Oxidation",
+      "Fermentation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 13
+  },
+  {
+    "text": "What law relates current voltage and resistance",
+    "options": [
+      "Ohms Law",
+      "Kirchhoffs Law",
+      "Faradays Law",
+      "Joules Law"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What type of bond forms between water molecules",
+    "options": [
+      "Ionic",
+      "Covalent",
+      "Hydrogen",
+      "Metallic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "What organelle produces ATP in eukaryotic cells",
+    "options": [
+      "Ribosome",
+      "Chloroplast",
+      "Mitochondrion",
+      "Nucleus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "What property describes a substance that does not conduct electricity",
+    "options": [
+      "Insulator",
+      "Conductor",
+      "Semiconductor",
+      "Electrolyte"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the pH of a neutral solution at 25C",
+    "options": [
+      "0",
+      "7",
+      "14",
+      "1"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the term for oxidation without oxygen",
+    "options": [
+      "Anaerobic",
+      "Aerobic",
+      "Hypoxic",
+      "Oxidative"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What particle mediates the weak nuclear force",
+    "options": [
+      "Photon",
+      "Gluon",
+      "Z Boson",
+      "Electron"
+    ],
+    "correctIndex": 2,
+    "difficulty": 19
+  },
+  {
+    "text": "What is the principle that energy is quantized",
+    "options": [
+      "Plancks Principle",
+      "Pauli Principle",
+      "Heisenberg Principle",
+      "Born Principle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the effect of catalyst on activation energy",
+    "options": [
+      "Increases",
+      "Decreases",
+      "No Change",
+      "Reverses"
+    ],
+    "correctIndex": 1,
+    "difficulty": 7
+  },
+  {
+    "text": "What field studies classification of organisms",
+    "options": [
+      "Genetics",
+      "Anatomy",
+      "Taxonomy",
+      "Physiology"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "What gas law describes volume and temperature relation",
+    "options": [
+      "Boyles Law",
+      "Charles Law",
+      "Avogadros Law",
+      "Daltons Law"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the basic unit of heredity",
+    "options": [
+      "Chromosome",
+      "Gene",
+      "Allele",
+      "DNA"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the cell cycle phase for DNA replication",
+    "options": [
+      "G1",
+      "S",
+      "G2",
+      "M"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the minimum energy to remove an electron",
+    "options": [
+      "Ionization Energy",
+      "Activation Energy",
+      "Binding Energy",
+      "Work Function"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What process forms glucose in plants",
+    "options": [
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis",
+      "Digestion"
+    ],
+    "correctIndex": 2,
+    "difficulty": 8
+  },
+  {
+    "text": "What describes curved space around mass",
+    "options": [
+      "Gravity Field",
+      "Electric Field",
+      "Magnetic Field",
+      "Gravitational Field"
+    ],
+    "correctIndex": 3,
+    "difficulty": 10
+  },
+  {
+    "text": "What type of reaction absorbs heat",
+    "options": [
+      "Exothermic",
+      "Endothermic",
+      "Isothermal",
+      "Adiabatic"
+    ],
+    "correctIndex": 1,
+    "difficulty": 8
+  },
+  {
+    "text": "What is the SI base unit for amount of substance",
+    "options": [
+      "Mole",
+      "Gram",
+      "Liter",
+      "Molecule"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What phenomenon splits white light into spectrum",
+    "options": [
+      "Reflection",
+      "Refraction",
+      "Diffraction",
+      "Dispersion"
+    ],
+    "correctIndex": 3,
+    "difficulty": 10
+  }
+]

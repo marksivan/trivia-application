@@ -1,0 +1,431 @@
+[
+  {
+    "text": "If 3x - 5 = 16 what is the value of x",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2,
+    "difficulty": 1
+  },
+  {
+    "text": "What is the sum of the interior angles of a pentagon",
+    "options": [
+      "540\u00b0",
+      "360\u00b0",
+      "720\u00b0",
+      "450\u00b0"
+    ],
+    "correctIndex": 0,
+    "difficulty": 8
+  },
+  {
+    "text": "Solve (6\u00b2 - 4\u00b2) \u00f7 2",
+    "options": [
+      "10",
+      "11",
+      "8",
+      "14"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the area of a triangle with base 10 cm and height 5 cm",
+    "options": [
+      "50 cm\u00b2",
+      "25 cm\u00b2",
+      "30 cm\u00b2",
+      "40 cm\u00b2"
+    ],
+    "correctIndex": 1,
+    "difficulty": 8
+  },
+  {
+    "text": "If a number is doubled and then 10 is subtracted the result is 24 what is the number",
+    "options": [
+      "17",
+      "18",
+      "20",
+      "16"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the average of the first 5 prime numbers",
+    "options": [
+      "5.6",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 0,
+    "difficulty": 13
+  },
+  {
+    "text": "How many factors does 36 have",
+    "options": [
+      "9",
+      "7",
+      "8",
+      "6"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "If 2x + 3 = 11 what is x\u00b2",
+    "options": [
+      "16",
+      "25",
+      "36",
+      "49"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the sum of the squares of the first three positive integers",
+    "options": [
+      "9",
+      "14",
+      "13",
+      "11"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Solve 2(x - 3) = 4x + 1 what is x",
+    "options": [
+      "x = -3",
+      "x = -7",
+      "x = 3",
+      "x = 2"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the volume of a cube with surface area 150 cm\u00b2",
+    "options": [
+      "25 cm\u00b3",
+      "27 cm\u00b3",
+      "30 cm\u00b3",
+      "125 cm\u00b3"
+    ],
+    "correctIndex": 3,
+    "difficulty": 10
+  },
+  {
+    "text": "If f(x) = x\u00b2 - 3x + 2 what is f(4)",
+    "options": [
+      "6",
+      "2",
+      "4",
+      "1"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which graph of y = |x - 3| + 2 is symmetric about which line",
+    "options": [
+      "x = 3",
+      "y = 2",
+      "y-axis",
+      "x-axis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "A rectangular prism has dimensions 2 3 and 4 What is its surface area",
+    "options": [
+      "52",
+      "94",
+      "88",
+      "76"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "If matrix A times vector v equals zero and v is nonzero what is v called",
+    "options": [
+      "Eigenvector",
+      "Null vector",
+      "Unit vector",
+      "Orthogonal vector"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "What is the solution to system x+y+z=3 x\u2212y+z=1 and x+y\u2212z=1",
+    "options": [
+      "1 1 1",
+      "1 0 2",
+      "2 1 0",
+      "0 1 2"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the derivative of ln x squared",
+    "options": [
+      "2 ln x over x",
+      "ln x over x",
+      "2 x ln x",
+      "ln squared x over x"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the sum of the infinite geometric series five over two plus five over four plus five over eight and so on",
+    "options": [
+      "5",
+      "7.5",
+      "2.5",
+      "10"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "If f x equals a x plus b and f inverse of x is two x minus three what is a",
+    "options": [
+      "1/2",
+      "2",
+      "-2",
+      "1"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "What is the determinant of matrix [1 2 3;0 1 4;0 0 1]",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 0,
+    "difficulty": 13
+  },
+  {
+    "text": "What is the area enclosed by one loop of r equals cos two theta in polar coordinates",
+    "options": [
+      "\u03c0/8",
+      "\u03c0/4",
+      "\u03c0/2",
+      "\u03c0"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "If series sum from n equals one to infinity of one over n diverges by what test is this concluded",
+    "options": [
+      "p series test",
+      "Ratio test",
+      "Comparison test",
+      "Root test"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the eigenvalue of matrix [2 0;0 3] with eigenvector [1;0]",
+    "options": [
+      "2",
+      "3",
+      "0",
+      "1"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "If f of x is continuous and f prime of x is negative on an interval what is f on that interval",
+    "options": [
+      "Increasing",
+      "Decreasing",
+      "Constant",
+      "Concave"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the derivative of arctan x",
+    "options": [
+      "1/(1+x^2)",
+      "x/(1+x^2)",
+      "1/(1-x^2)",
+      "x"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the integral of sec squared x dx",
+    "options": [
+      "tan x",
+      "sec x",
+      "cos x",
+      "sin x"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "In linear algebra what is rank plus nullity equal to",
+    "options": [
+      "number of columns",
+      "number of rows",
+      "determinant",
+      "trace"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the sum of the interior angles of a nonagon",
+    "options": [
+      "1260",
+      "1440",
+      "1080",
+      "900"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the product of the roots of x squared minus 4 x plus 3 equals zero",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "-3"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the value of cosine of pi over three",
+    "options": [
+      "1/2",
+      "\u221a3/2",
+      "1/\u221a2",
+      "\u221a2/2"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the second derivative of x cubed",
+    "options": [
+      "6x",
+      "2x",
+      "3x^2",
+      "6"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the limit of (e to x minus one) over x as x approaches zero",
+    "options": [
+      "1",
+      "0",
+      "e",
+      "undefined"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the derivative of ln sine x",
+    "options": [
+      "cot x",
+      "tan x",
+      "sec x",
+      "csc x"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the integral from zero to one of x squared dx",
+    "options": [
+      "1/3",
+      "1/2",
+      "1/4",
+      "1"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the magnitude of vector [3 4] in R2",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "4"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the solution to system x minus y equals 2 and x plus y equals 6",
+    "options": [
+      "4 2",
+      "2 4",
+      "3 1",
+      "1 5"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the probability of drawing two aces from a standard deck without replacement",
+    "options": [
+      "1/221",
+      "3/663",
+      "4/1326",
+      "1/169"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the derivative of inverse sine of x",
+    "options": [
+      "1/sqrt(1-x^2)",
+      "1/sqrt(1+x^2)",
+      "sqrt(1-x^2)",
+      "x/\u221a(1-x^2)"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What is the binomial coefficient of x squared in (1 plus x) to the fourth",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "10"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  }
+]

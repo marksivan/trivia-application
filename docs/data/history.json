@@ -1,0 +1,695 @@
+[
+  {
+    "text": "Who was the first president of the United States?",
+    "options": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "James Madison"
+    ],
+    "correctIndex": 0,
+    "difficulty": 1
+  },
+  {
+    "text": "In which year did World War II end?",
+    "options": [
+      "1939",
+      "1940",
+      "1944",
+      "1945"
+    ],
+    "correctIndex": 3,
+    "difficulty": 1
+  },
+  {
+    "text": "What is the ancient Egyptian writing system called?",
+    "options": [
+      "Cuneiform",
+      "Hieroglyphics",
+      "Latin",
+      "Greek"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2
+  },
+  {
+    "text": "Which empire was ruled by Julius Caesar?",
+    "options": [
+      "Roman Empire",
+      "Ottoman Empire",
+      "Persian Empire",
+      "Byzantine Empire"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2
+  },
+  {
+    "text": "Who invented the telephone?",
+    "options": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Samuel Morse",
+      "Michael Faraday"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3
+  },
+  {
+    "text": "Who was the first woman to fly solo across the Atlantic?",
+    "options": [
+      "Amelia Earhart",
+      "Bessie Coleman",
+      "Harriet Tubman",
+      "Clara Barton"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3
+  },
+  {
+    "text": "Which country did the United States fight during the War of 1812?",
+    "options": [
+      "Great Britain",
+      "France",
+      "Spain",
+      "Germany"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3
+  },
+  {
+    "text": "What was the name of the ship that brought the Pilgrims to America?",
+    "options": [
+      "Mayflower",
+      "Endeavour",
+      "Discovery",
+      "Beagle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3
+  },
+  {
+    "text": "Which historical figure was known as the 'Maid of Orleans'?",
+    "options": [
+      "Joan of Arc",
+      "Catherine the Great",
+      "Queen Elizabeth I",
+      "Napoleon Bonaparte"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3
+  },
+  {
+    "text": "Who was the first emperor of China?",
+    "options": [
+      "Qin Shi Huang",
+      "Emperor Wu",
+      "Emperor Taizong",
+      "Liu Bang"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3
+  },
+  {
+    "text": "In which year did the Titanic sink?",
+    "options": [
+      "1910",
+      "1912",
+      "1914",
+      "1916"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3
+  },
+  {
+    "text": "Who was the leader of the Soviet Union during World War II?",
+    "options": [
+      "Joseph Stalin",
+      "Leon Trotsky",
+      "Nikita Khrushchev",
+      "Mikhail Gorbachev"
+    ],
+    "correctIndex": 0,
+    "difficulty": 4
+  },
+  {
+    "text": "What was the ancient city of Troy located?",
+    "options": [
+      "Turkey",
+      "Greece",
+      "Italy",
+      "Persia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 4
+  },
+  {
+    "text": "Which civilization built the Machu Picchu?",
+    "options": [
+      "Inca",
+      "Aztec",
+      "Maya",
+      "Olmec"
+    ],
+    "correctIndex": 0,
+    "difficulty": 4
+  },
+  {
+    "text": "Who was the first king of Israel?",
+    "options": [
+      "David",
+      "Saul",
+      "Solomon",
+      "Rehoboam"
+    ],
+    "correctIndex": 1,
+    "difficulty": 4
+  },
+  {
+    "text": "What was the significance of the Magna Carta?",
+    "options": [
+      "It limited the power of the king",
+      "It ended the Roman Empire",
+      "It established the monarchy",
+      "It reformed the church"
+    ],
+    "correctIndex": 0,
+    "difficulty": 5
+  },
+  {
+    "text": "Which war was fought between the North and South in the United States?",
+    "options": [
+      "The Civil War",
+      "The Revolutionary War",
+      "The War of 1812",
+      "The Spanish-American War"
+    ],
+    "correctIndex": 0,
+    "difficulty": 5
+  },
+  {
+    "text": "Which ancient empire was known for its advanced roads and aqueducts?",
+    "options": [
+      "Roman Empire",
+      "Mayan Empire",
+      "Persian Empire",
+      "Inca Empire"
+    ],
+    "correctIndex": 0,
+    "difficulty": 5
+  },
+  {
+    "text": "What was the primary cause of the fall of the Roman Empire?",
+    "options": [
+      "Barbarian invasions",
+      "Plague",
+      "Internal corruption",
+      "Religious conflict"
+    ],
+    "correctIndex": 0,
+    "difficulty": 5
+  },
+  {
+    "text": "Who was the leader of the Mongol Empire?",
+    "options": [
+      "Genghis Khan",
+      "Kublai Khan",
+      "Tamerlane",
+      "Hun"
+    ],
+    "correctIndex": 0,
+    "difficulty": 5
+  },
+  {
+    "text": "Which event started World War I?",
+    "options": [
+      "Assassination of Archduke Franz Ferdinand",
+      "Battle of Waterloo",
+      "The Russian Revolution",
+      "The signing of the Treaty of Versailles"
+    ],
+    "correctIndex": 0,
+    "difficulty": 5
+  },
+  {
+    "text": "Which treaty ended World War I?",
+    "options": [
+      "Treaty of Versailles",
+      "Treaty of Paris",
+      "Treaty of Tordesillas",
+      "Treaty of Ghent"
+    ],
+    "correctIndex": 0,
+    "difficulty": 5
+  },
+  {
+    "text": "Which war was fought between 1950 and 1953 in East Asia?",
+    "options": [
+      "Korean War",
+      "Chinese Civil War",
+      "Japanese War",
+      "Indochina War"
+    ],
+    "correctIndex": 0,
+    "difficulty": 6
+  },
+  {
+    "text": "Which empire was led by Alexander the Great?",
+    "options": [
+      "Macedonian Empire",
+      "Persian Empire",
+      "Ottoman Empire",
+      "Roman Empire"
+    ],
+    "correctIndex": 0,
+    "difficulty": 6
+  },
+  {
+    "text": "Who was the leader of the Bolshevik Revolution in Russia?",
+    "options": [
+      "Vladimir Lenin",
+      "Joseph Stalin",
+      "Leon Trotsky",
+      "Tsar Nicholas II"
+    ],
+    "correctIndex": 0,
+    "difficulty": 6
+  },
+  {
+    "text": "What was the name of the ship that carried the first Africans to America?",
+    "options": [
+      "The Mayflower",
+      "The White Lion",
+      "The Godspeed",
+      "The Arbella"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which famous battle was fought in 1066?",
+    "options": [
+      "Battle of Hastings",
+      "Battle of Waterloo",
+      "Battle of the Bulge",
+      "Battle of Agincourt"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which country did the United States purchase Alaska from?",
+    "options": [
+      "Russia",
+      "France",
+      "Great Britain",
+      "Spain"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What year did the Berlin Wall fall?",
+    "options": [
+      "1987",
+      "1989",
+      "1991",
+      "1993"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Who was the first human to travel into space?",
+    "options": [
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "John Glenn",
+      "Valentina Tereshkova"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Who was the queen of France during the French Revolution?",
+    "options": [
+      "Marie Antoinette",
+      "Catherine de Medici",
+      "Elizabeth I",
+      "Anne Boleyn"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which empire ruled the Middle East during the 7th to 13th centuries?",
+    "options": [
+      "Ottoman Empire",
+      "Byzantine Empire",
+      "Mongol Empire",
+      "Abbasid Caliphate"
+    ],
+    "correctIndex": 3,
+    "difficulty": 10
+  },
+  {
+    "text": "Which country was the first to grant women the right to vote?",
+    "options": [
+      "USA",
+      "New Zealand",
+      "Sweden",
+      "Canada"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Who wrote the Declaration of Independence?",
+    "options": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "James Madison"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which ancient civilization built the Pyramids of Giza?",
+    "options": [
+      "Ancient Egypt",
+      "Ancient Mesopotamia",
+      "Ancient Greece",
+      "Ancient Rome"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "What empire was led by the pharaohs?",
+    "options": [
+      "Ancient Egypt",
+      "Byzantine Empire",
+      "Persian Empire",
+      "Ottoman Empire"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Who was the first female prime minister of the United Kingdom?",
+    "options": [
+      "Margaret Thatcher",
+      "Angela Merkel",
+      "Indira Gandhi",
+      "Golda Meir"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which empire did the Byzantine Empire succeed?",
+    "options": [
+      "Roman Empire",
+      "Mongol Empire",
+      "Ottoman Empire",
+      "Persian Empire"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which civilization was known for its advanced mathematics and calendar?",
+    "options": [
+      "Maya",
+      "Aztec",
+      "Inca",
+      "Olmec"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which major world event occurred in 1939?",
+    "options": [
+      "World War II began",
+      "World War I began",
+      "The Cold War began",
+      "The Korean War began"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which empire was centered in present-day Iran?",
+    "options": [
+      "Ottoman Empire",
+      "Persian Empire",
+      "Byzantine Empire",
+      "Ottoman Empire"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which revolution led to the creation of the United States?",
+    "options": [
+      "American Revolution",
+      "French Revolution",
+      "Industrial Revolution",
+      "Glorious Revolution"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Who was the leader of Nazi Germany during World War II?",
+    "options": [
+      "Adolf Hitler",
+      "Benito Mussolini",
+      "Joseph Stalin",
+      "Winston Churchill"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which war was fought between 1955 and 1975 in Southeast Asia?",
+    "options": [
+      "Vietnam War",
+      "Korean War",
+      "Indochina War",
+      "Laotian War"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which major battle took place on June 6 1944?",
+    "options": [
+      "D-Day Battle",
+      "Battle of the Bulge",
+      "Battle of Stalingrad",
+      "Battle of Midway"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which country was divided into East and West during the Cold War?",
+    "options": [
+      "Germany",
+      "Korea",
+      "Vietnam",
+      "China"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "Which revolution took place in France in 1789?",
+    "options": [
+      "French Revolution",
+      "Glorious Revolution",
+      "American Revolution",
+      "Industrial Revolution"
+    ],
+    "correctIndex": 0,
+    "difficulty": 11
+  },
+  {
+    "text": "What was the name of the first atomic bomb dropped in Japan?",
+    "options": [
+      "Little Boy",
+      "Fat Man",
+      "Enola Gay",
+      "Big Bang"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "Which famous explorer sailed to India in 1498?",
+    "options": [
+      "Christopher Columbus",
+      "Ferdinand Magellan",
+      "Vasco da Gama",
+      "Marco Polo"
+    ],
+    "correctIndex": 2,
+    "difficulty": 10
+  },
+  {
+    "text": "Which country was invaded by Germany in 1940 during World War II?",
+    "options": [
+      "France",
+      "Poland",
+      "Italy",
+      "USA"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "What event triggered the start of the American Civil War?",
+    "options": [
+      "Battle of Gettysburg",
+      "Emancipation Proclamation",
+      "Firing on Fort Sumter",
+      "The Attack on Pearl Harbor"
+    ],
+    "correctIndex": 2,
+    "difficulty": 12
+  },
+  {
+    "text": "What empire was led by Augustus Caesar?",
+    "options": [
+      "Roman Empire",
+      "Ottoman Empire",
+      "Persian Empire",
+      "Mongol Empire"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  },
+  {
+    "text": "Which war did the United States fight against Vietnam?",
+    "options": [
+      "Vietnam War",
+      "Cold War",
+      "World War II",
+      "Korean War"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Who was the last Tsar of Russia?",
+    "options": [
+      "Ivan IV",
+      "Nicholas II",
+      "Peter the Great",
+      "Alexander II"
+    ],
+    "correctIndex": 1,
+    "difficulty": 12
+  },
+  {
+    "text": "What empire ruled over much of Europe during the 5th to 15th centuries?",
+    "options": [
+      "Roman Empire",
+      "Ottoman Empire",
+      "Byzantine Empire",
+      "Franks"
+    ],
+    "correctIndex": 0,
+    "difficulty": 13
+  },
+  {
+    "text": "What event occurred on December 7 1941?",
+    "options": [
+      "Pearl Harbor attack",
+      "Normandy invasion",
+      "The Battle of Stalingrad",
+      "The Battle of Midway"
+    ],
+    "correctIndex": 0,
+    "difficulty": 13
+  },
+  {
+    "text": "Who led the Soviet Union during the Cuban Missile Crisis?",
+    "options": [
+      "Nikita Khrushchev",
+      "Joseph Stalin",
+      "Leonid Brezhnev",
+      "Mikhail Gorbachev"
+    ],
+    "correctIndex": 0,
+    "difficulty": 13
+  },
+  {
+    "text": "What year did the Berlin Wall fall?",
+    "options": [
+      "1989",
+      "1991",
+      "1993",
+      "1987"
+    ],
+    "correctIndex": 0,
+    "difficulty": 13
+  },
+  {
+    "text": "Who discovered the Americas in 1492?",
+    "options": [
+      "Christopher Columbus",
+      "Amerigo Vespucci",
+      "Ferdinand Magellan",
+      "Leif Erikson"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Who was the first woman to be elected to a national office in the United States?",
+    "options": [
+      "Margaret Sanger",
+      "Clara Barton",
+      "Jeannette Rankin",
+      "Harriet Beecher Stowe"
+    ],
+    "correctIndex": 2,
+    "difficulty": 14
+  },
+  {
+    "text": "Who is credited with inventing the light bulb?",
+    "options": [
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "George Westinghouse"
+    ],
+    "correctIndex": 1,
+    "difficulty": 14
+  },
+  {
+    "text": "What war was fought between the North and South in the United States?",
+    "options": [
+      "Civil War",
+      "Revolutionary War",
+      "Spanish-American War",
+      "War of 1812"
+    ],
+    "correctIndex": 0,
+    "difficulty": 14
+  },
+  {
+    "text": "What year did the Titanic sink?",
+    "options": [
+      "1912",
+      "1900",
+      "1920",
+      "1910"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  }
+]

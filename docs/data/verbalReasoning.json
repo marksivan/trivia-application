@@ -1,0 +1,288 @@
+[
+  {
+    "text": "Which of the following is the best synonym for 'conflate'?",
+    "options": [
+      "Merge",
+      "Separate",
+      "Distill",
+      "Clarify"
+    ],
+    "correctIndex": 1,
+    "difficulty": 12
+  },
+  {
+    "text": "Identify the meaning of the phrase 'to throw in the towel.'",
+    "options": [
+      "To surrender",
+      "To fight back",
+      "To reconsider",
+      "To strategize"
+    ],
+    "correctIndex": 0,
+    "difficulty": 1
+  },
+  {
+    "text": "Which of the following is an example of a tautology?",
+    "options": [
+      "The free gift",
+      "The first priority",
+      "The hot fire",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": 10
+  },
+  {
+    "text": "Choose the word that most closely matches the meaning of 'opulent.'",
+    "options": [
+      "Wealthy",
+      "Shabby",
+      "Shiny",
+      "Fancy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of the following words is a synonym for 'equivocate'?",
+    "options": [
+      "Reaffirm",
+      "Distort",
+      "Clarify",
+      "Confirm"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of the following is the best example of an adage?",
+    "options": [
+      "A bird in the hand is worth two in the bush",
+      "The pen is mightier than the sword",
+      "A rolling stone gathers no moss",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2
+  },
+  {
+    "text": "Which of the following is the most accurate synonym for 'exacerbate'?",
+    "options": [
+      "Alleviate",
+      "Improve",
+      "Aggravate",
+      "Moderate"
+    ],
+    "correctIndex": 2,
+    "difficulty": 17
+  },
+  {
+    "text": "Which sentence correctly uses the word 'cajole'?",
+    "options": [
+      "He tried to cajole his way into a free meal",
+      "She decided to cajole him by explaining the facts",
+      "They managed to cajole him into participating",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": 12
+  },
+  {
+    "text": "Which of the following words is most closely related to 'nuance'?",
+    "options": [
+      "Simple",
+      "Subtle",
+      "Obvious",
+      "Direct"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which is the antonym of 'melancholy'?",
+    "options": [
+      "Ecstatic",
+      "Happy",
+      "Content",
+      "Peaceful"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of the following best defines 'inundate'?",
+    "options": [
+      "To overwhelm",
+      "To ignore",
+      "To confront",
+      "To simplify"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of these words best fits the definition of 'ephemeral'?",
+    "options": [
+      "Permanent",
+      "Short-lived",
+      "Long-lasting",
+      "Painful"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Choose the word that most accurately matches 'pragmatic.'",
+    "options": [
+      "Idealistic",
+      "Practical",
+      "Theoretical",
+      "Emotional"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of the following sentences correctly uses 'ambivalent'?",
+    "options": [
+      "She felt ambivalent about attending the event",
+      "He was ambivalent about completing the task",
+      "They remained ambivalent throughout the argument",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": 6
+  },
+  {
+    "text": "Which is the opposite of 'perfunctory'?",
+    "options": [
+      "Meticulous",
+      "Lax",
+      "Rushed",
+      "Hasty"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of the following words would you use to describe a person who is 'stoic'?",
+    "options": [
+      "Emotional",
+      "Impulsive",
+      "Unemotional",
+      "Excitable"
+    ],
+    "correctIndex": 2,
+    "difficulty": 7
+  },
+  {
+    "text": "Which phrase is the best synonym for 'take with a grain of salt'?",
+    "options": [
+      "Believe completely",
+      "Consider skeptically",
+      "Dismiss entirely",
+      "Accept fully"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of these sentences best uses the word 'ubiquitous'?",
+    "options": [
+      "Smartphones have become ubiquitous in modern society",
+      "The ubiquitous sound of traffic filled the city streets",
+      "She is ubiquitous in all her social circles",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": 14
+  },
+  {
+    "text": "Choose the word that is closest in meaning to 'cogent.'",
+    "options": [
+      "Unclear",
+      "Convincing",
+      "Irrelevant",
+      "Weak"
+    ],
+    "correctIndex": 1,
+    "difficulty": 12
+  },
+  {
+    "text": "Which of the following words is most opposite in meaning to 'loquacious'?",
+    "options": [
+      "Silent",
+      "Talkative",
+      "Charming",
+      "Friendly"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which word completes the sentence 'The manager showed a ________ attitude towards the team's suggestions.'",
+    "options": [
+      "Dismissive",
+      "Supportive",
+      "Encouraging",
+      "Neutral"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of the following is the best synonym for 'recalcitrant'?",
+    "options": [
+      "Obedient",
+      "Defiant",
+      "Docile",
+      "Submissive"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which word is closest in meaning to 'resilient'?",
+    "options": [
+      "Fragile",
+      "Unyielding",
+      "Weak",
+      "Delicate"
+    ],
+    "correctIndex": 1,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of the following sentences contains an error in subject-verb agreement?",
+    "options": [
+      "The team are practicing well.",
+      "The students are studying hard.",
+      "The dog is barking loudly.",
+      "The company has expanded significantly."
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Which of the following is the best synonym for 'epiphany'?",
+    "options": [
+      "A realization",
+      "A doubt",
+      "A fear",
+      "A prediction"
+    ],
+    "correctIndex": 0,
+    "difficulty": 10
+  },
+  {
+    "text": "Choose the word that most closely matches the meaning of 'nonplussed.'",
+    "options": [
+      "Confused",
+      "Content",
+      "Eager",
+      "Excited"
+    ],
+    "correctIndex": 0,
+    "difficulty": 12
+  }
+]
